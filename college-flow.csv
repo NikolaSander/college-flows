@@ -1,0 +1,751 @@
+originregion_id,originregion_name,destinationregion_id,destinationregion_name,origin_iso,origin_name,destination_iso,destination_name,regionflow_2003,regionflow_2004,regionflow_2005,regionflow_2006,regionflow_2007,regionflow_2008,regionflow_2009,regionflow_2010,regionflow_2011,regionflow_2012,regionflow_2013,regionflow_2014,countryflow_2003,countryflow_2004,countryflow_2005,countryflow_2006,countryflow_2007,countryflow_2008,countryflow_2009,countryflow_2010,countryflow_2011,countryflow_2012,countryflow_2013,countryflow_2014
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,9,14,13,5,12,9,16,20,7,9,2,0
+3,State Universities,3,State Universities,CSU,Columbus State University,SSU,Savannah State University,691,801,890,788,844,859,880,964,938,1023,728,557,0,1,1,2,2,3,2,1,2,3,0,1
+4,State Colleges,2,Comprehensive Universities,SGC,South Georgia College,UWG,University of West Georgia,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,4,1,4,5,5,0,1,5,3,4,2,0
+3,State Universities,2,Comprehensive Universities,GCM,Georgia College & State University,KEN,Kennesaw State University,582,576,679,635,613,675,718,750,897,853,685,665,21,23,33,15,22,31,35,33,38,36,43,37
+3,State Universities,4,State Colleges,SPS,Southern Polytechnic State University,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,2,0,0,0,0,0,0,1,1,0,1
+2,Comprehensive Universities,1,Research Universities,GSC,Georgia Southern University,AUG,Augusta State University,728,750,761,875,902,923,976,965,1101,1069,996,949,41,54,54,58,47,47,40,43,50,36,12,0
+4,State Colleges,1,Research Universities,BAN,Bainbridge State College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,0,0,0,0,0,0,1,1,0,2,1
+3,State Universities,2,Comprehensive Universities,AAS,Armstrong Atlantic State University,GSC,Georgia Southern University,582,576,679,635,613,675,718,750,897,853,685,665,51,50,61,41,62,61,51,45,68,61,73,59
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,1,2,0,3,2,2,2,2,0,0
+1,Research Universities,3,State Universities,GSU,Georgia State University,GSW,Georgia Southwestern State University,436,407,418,376,360,378,409,384,369,436,388,333,5,6,7,4,3,9,8,9,5,9,8,7
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,SGSC,South Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,0,3
+3,State Universities,3,State Universities,CSU,Columbus State University,NGC,North Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,5,4,2,5,2,1,3,2,6,1,0
+1,Research Universities,2,Comprehensive Universities,GRU,Georgia Regents University,UWG,University of West Georgia,457,438,425,401,353,377,397,398,369,403,352,335,0,0,0,1,0,0,0,0,0,0,0,0
+4,State Colleges,3,State Universities,SGC,South Georgia College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,4,2,4,2,3,8,9,2,3,3,0
+3,State Universities,4,State Colleges,SSU,Savannah State University,DAL,Dalton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,1,0,2,0,2,0
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,5,3,4,6,7,12,20,19,14,23,15,26
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,EGC,East Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,1,1,2,6,2,1,8,1,0,4,0
+4,State Colleges,2,Comprehensive Universities,DAR,Darton State College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,52,50,53,43,57,54,35,49,52,44,39,50
+3,State Universities,4,State Colleges,SPS,Southern Polytechnic State University,MGSC,Middle Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,3,6
+1,Research Universities,2,Comprehensive Universities,UGA,University of Georgia,KEN,Kennesaw State University,457,438,425,401,353,377,397,398,369,403,352,335,119,102,90,89,68,56,66,85,63,63,80,80
+4,State Colleges,4,State Colleges,WAY,Waycross College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,0,0,0,0,0,0,0,0,0,0
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,SGC,South Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,1,0,2,0,1,1,0,0
+4,State Colleges,3,State Universities,SGSC,South Georgia State College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,5,9,8,5,14,43,58,54,64,57,80
+1,Research Universities,3,State Universities,AUG,Augusta State University,CSC,Clayton State University,436,407,418,376,360,378,409,384,369,436,388,333,6,2,4,4,5,5,3,4,7,9,0,0
+3,State Universities,4,State Colleges,GAN,Gainesville State College,GPC,Georgia Perimeter College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,42,76,57,46,70,66,64,84,70,52,24,0
+1,Research Universities,3,State Universities,UGA,University of Georgia,CSU,Columbus State University,436,407,418,376,360,378,409,384,369,436,388,333,22,15,14,9,12,20,17,13,5,9,7,10
+3,State Universities,3,State Universities,FVS,Fort Valley State University,CSU,Columbus State University,691,801,890,788,844,859,880,964,938,1023,728,557,13,8,17,5,9,7,9,13,6,5,10,6
+1,Research Universities,4,State Colleges,UGA,University of Georgia,DAR,Darton State College,409,451,427,403,456,524,640,626,671,612,536,604,5,7,9,4,4,6,8,8,12,4,10,10
+2,Comprehensive Universities,3,State Universities,KEN,Kennesaw State University,GAN,Gainesville State College,550,601,590,596,633,639,702,707,658,775,750,647,18,47,26,37,41,42,50,49,46,64,18,0
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,WAY,Waycross College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,1,2,0,1,0,2,0,0,0
+4,State Colleges,4,State Colleges,GDN,Gordon State College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,3,8,4,23,17,10,12
+4,State Colleges,3,State Universities,WAY,Waycross College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,0,1,1,2,1,0,2,1,2,0,0
+3,State Universities,4,State Colleges,CSU,Columbus State University,DAR,Darton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,4,10,9,8,12,14,13,16,7,11,14,11
+3,State Universities,1,Research Universities,GSW,Georgia Southwestern State University,GRU,Georgia Regents University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,0,2,2,1,0,1,0,1,0,0,0,3
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,DAR,Darton State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,1,3,4,4,2,5,5,5,5,5,12,3
+3,State Universities,3,State Universities,SSU,Savannah State University,ALS,Albany State University,691,801,890,788,844,859,880,964,938,1023,728,557,2,6,7,12,4,6,2,4,5,2,7,7
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,MID,Middle Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,1,0,1,2,1,1,3,2,0,0
+5,Out-of-System,2,Comprehensive Universities,OUT,Non-USG Institutions,GSC,Georgia Southern University,2960,2899,2968,2996,2751,2836,3178,3315,3438,3366,3238,3344,304,337,357,372,382,421,432,416,487,478,468,520
+3,State Universities,4,State Colleges,CSU,Columbus State University,GDN,Gordon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,7,3,7,5,2,6,8,5,9,9,11,5
+1,Research Universities,4,State Colleges,GRU,Georgia Regents University,GPC,Georgia Perimeter College,409,451,427,403,456,524,640,626,671,612,536,604,0,1,1,0,0,1,0,1,0,1,2,8
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,1,1,0,0,0,0,0,3,1,3,2
+1,Research Universities,4,State Colleges,GRU,Georgia Regents University,EGC,East Georgia State College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,0,0,0,0,0,0,0,4,23
+4,State Colleges,2,Comprehensive Universities,BAN,Bainbridge State College,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,4,7,5,6,7,4,8,12,12,16,9,11
+3,State Universities,4,State Colleges,CSC,Clayton State University,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,0,2,3,1,0,1,2,1,1,2,2
+1,Research Universities,2,Comprehensive Universities,UGA,University of Georgia,VSU,Valdosta State University,457,438,425,401,353,377,397,398,369,403,352,335,15,14,15,15,10,5,8,16,11,11,8,6
+4,State Colleges,4,State Colleges,GGC,Georgia Gwinnett College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,1,0
+4,State Colleges,1,Research Universities,MAC,Macon State College,GSU,Georgia State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,25,31,20,33,20,26,22,25,16,15,9,0
+4,State Colleges,4,State Colleges,EGC,East Georgia State College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,8,3,4,6,8,5,4,4,2,6,2
+4,State Colleges,2,Comprehensive Universities,AMC,Atlanta Metropolitan State College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,0,2,1,1,0,0,3,1,2,4,3,1
+2,Comprehensive Universities,4,State Colleges,GSC,Georgia Southern University,MGSC,Middle Georgia State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,0,0,0,0,0,0,0,0,0,0,31,29
+4,State Colleges,1,Research Universities,DAL,Dalton State College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,4,1,1,0,1,1,2,3,0,0,0,0
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,6,4,5,6,5,5,6,10,6,4,10
+2,Comprehensive Universities,4,State Colleges,UWG,University of West Georgia,DAR,Darton State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,3,1,6,1,3,6,4,6,4,6,7,2
+3,State Universities,3,State Universities,GSW,Georgia Southwestern State University,FVS,Fort Valley State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,7,2,4,2,3,4,2,1,2,6,2
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,MID,Middle Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,2,3,3,8,4,5,2,5,5,4,0
+4,State Colleges,4,State Colleges,MGSC,Middle Georgia State College,GDN,Gordon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,11,7,10,11,6,8,14,14,9,8,6,6
+4,State Colleges,2,Comprehensive Universities,CCG,College of Coastal Georgia,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,17,28,23,23,21,21,22,26,27,24,22,15
+4,State Colleges,2,Comprehensive Universities,MAC,Macon State College,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,8,15,19,26,16,15,16,11,15,16,5,0
+3,State Universities,4,State Colleges,CSU,Columbus State University,AMC,Atlanta Metropolitan State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,1,3,2,4,3,0,2,7,5,7,3
+1,Research Universities,4,State Colleges,AUG,Augusta State University,CCG,College of Coastal Georgia,409,451,427,403,456,524,640,626,671,612,536,604,0,0,1,0,1,3,0,1,2,1,4,0
+3,State Universities,4,State Colleges,CSC,Clayton State University,GGC,Georgia Gwinnett College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,3,1,1,4,6,8,7,6,16
+3,State Universities,1,Research Universities,CSU,Columbus State University,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,7,8,9,10,10,5,11,7,3,9,4,7
+4,State Colleges,3,State Universities,ABC,Abraham Baldwin Agricultural College,GCM,Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,9,8,11,16,14,10,9,7,17,7,13,10
+2,Comprehensive Universities,2,Comprehensive Universities,KEN,Kennesaw State University,GSC,Georgia Southern University,340,409,380,422,399,428,428,429,531,485,477,496,11,35,24,31,22,21,35,28,37,31,30,29
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,CCG,College of Coastal Georgia,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,1,0,1,0,2,2,1,3,1,1,1
+4,State Colleges,2,Comprehensive Universities,EGC,East Georgia State College,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,2,3,4,1,3,2,6,5,8,7,10,11
+4,State Colleges,3,State Universities,GPC,Georgia Perimeter College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,3,4,6,7,7,7,14,8,18,12,3
+4,State Colleges,4,State Colleges,GDN,Gordon State College,DAL,Dalton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,3,3,4,1,1,1,2,2,3,0
+3,State Universities,4,State Colleges,GAN,Gainesville State College,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,1,1,5,7,6,4,3,6,7,1,0
+2,Comprehensive Universities,4,State Colleges,UWG,University of West Georgia,CCG,College of Coastal Georgia,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,1,1,1,1,3,2,3,2,2,3,3,4
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,ABC,Abraham Baldwin Agricultural College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,0,2,3,0,1,0,4,1,1,2,0,2
+4,State Colleges,4,State Colleges,MID,Middle Georgia College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,5,4,2,5,4,6,6,7,5,6,1,0
+4,State Colleges,4,State Colleges,MID,Middle Georgia College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,33,45,67,50,84,74,82,60,57,64,23,0
+3,State Universities,3,State Universities,FVS,Fort Valley State University,SPS,Southern Polytechnic State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,0,2,0,1,0,0,0,4,2,5,1
+2,Comprehensive Universities,4,State Colleges,GSC,Georgia Southern University,BAN,Bainbridge State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,5,3,2,1,2,4,3,4,5,2,1,1
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,2,2,5,8,6,6,6,4,8,3,5
+3,State Universities,3,State Universities,GAN,Gainesville State College,ALS,Albany State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,0,1,0,0,0,0,1,0,2,0,0
+4,State Colleges,2,Comprehensive Universities,GHC,Georgia Highlands College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,6,1,1,1,0,4,9,2,12,6,5,6
+4,State Colleges,4,State Colleges,DAR,Darton State College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,2,1,0,2,2,1,2,0,0,0,0
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,EGC,East Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,2,0,1,1,0,0,1,0
+3,State Universities,4,State Colleges,GCM,Georgia College & State University,GHC,Georgia Highlands College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,2,1,0,3,2,2,0,6,2,1,2
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,GDN,Gordon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,0,1,2,1,1,1,0,2,3,3
+5,Out-of-System,2,Comprehensive Universities,OUT,Non-USG Institutions,UWG,University of West Georgia,2960,2899,2968,2996,2751,2836,3178,3315,3438,3366,3238,3344,450,416,428,477,464,437,488,525,592,543,484,518
+5,Out-of-System,3,State Universities,OUT,Non-USG Institutions,AAS,Armstrong Atlantic State University,4305,4039,3801,3876,3737,3833,4303,4471,4281,4406,4076,4007,633,656,557,549,511,562,631,671,659,651,598,617
+1,Research Universities,4,State Colleges,AUG,Augusta State University,DAR,Darton State College,409,451,427,403,456,524,640,626,671,612,536,604,0,1,2,0,3,4,8,4,6,3,1,0
+4,State Colleges,1,Research Universities,BAN,Bainbridge State College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,8,17,16,14,15,11,5,12,9,14,5,10
+3,State Universities,3,State Universities,AAS,Armstrong Atlantic State University,ALS,Albany State University,691,801,890,788,844,859,880,964,938,1023,728,557,0,0,1,1,1,2,0,2,3,6,2,1
+4,State Colleges,3,State Universities,GDN,Gordon State College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,7,5,3,4,4,4,2,4,22,29,4,2
+1,Research Universities,2,Comprehensive Universities,GSU,Georgia State University,UWG,University of West Georgia,457,438,425,401,353,377,397,398,369,403,352,335,23,38,27,24,34,39,27,38,35,28,25,23
+4,State Colleges,4,State Colleges,DAL,Dalton State College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,0,1,1,0,1,0,1,1,2,0
+1,Research Universities,4,State Colleges,AUG,Augusta State University,MID,Middle Georgia College,409,451,427,403,456,524,640,626,671,612,536,604,2,0,1,2,2,2,3,3,2,0,0,0
+4,State Colleges,2,Comprehensive Universities,EGC,East Georgia State College,UWG,University of West Georgia,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,0,1,4,2,0,1,2,1,1,1,5,1
+3,State Universities,1,Research Universities,CSU,Columbus State University,GRU,Georgia Regents University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,8,9,13,4,2,2,1,1,0,1,1,4
+1,Research Universities,3,State Universities,AUG,Augusta State University,GAN,Gainesville State College,436,407,418,376,360,378,409,384,369,436,388,333,4,3,7,8,6,8,5,8,9,6,6,0
+3,State Universities,1,Research Universities,AAS,Armstrong Atlantic State University,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,12,23,12,9,29,21,16,13,17,22,21,15
+1,Research Universities,4,State Colleges,AUG,Augusta State University,BAN,Bainbridge State College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,0,0,0,0,1,0,1,0,0
+1,Research Universities,2,Comprehensive Universities,GIT,Georgia Institute of Technology,VSU,Valdosta State University,457,438,425,401,353,377,397,398,369,403,352,335,5,0,5,1,2,2,2,1,5,3,4,1
+4,State Colleges,3,State Universities,DAL,Dalton State College,UNGA,University of North Georgia,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,13,16
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,DAL,Dalton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,4,8,2,6,6,4,13,6,9,8,14,14
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,GDN,Gordon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,3,2,0,2,3,3,1,2,3,3,2
+3,State Universities,3,State Universities,ALS,Albany State University,GSW,Georgia Southwestern State University,691,801,890,788,844,859,880,964,938,1023,728,557,11,10,11,11,9,9,3,8,6,3,8,5
+3,State Universities,3,State Universities,ALS,Albany State University,UNGA,University of North Georgia,691,801,890,788,844,859,880,964,938,1023,728,557,0,0,0,0,0,0,0,0,0,0,1,0
+3,State Universities,3,State Universities,CSU,Columbus State University,GSW,Georgia Southwestern State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,7,6,3,4,8,5,7,6,4,5,2
+3,State Universities,2,Comprehensive Universities,AAS,Armstrong Atlantic State University,KEN,Kennesaw State University,582,576,679,635,613,675,718,750,897,853,685,665,11,9,21,14,10,14,10,16,29,30,23,29
+1,Research Universities,3,State Universities,GRU,Georgia Regents University,AAS,Armstrong Atlantic State University,436,407,418,376,360,378,409,384,369,436,388,333,0,0,0,2,1,0,0,0,0,0,0,6
+4,State Colleges,2,Comprehensive Universities,DAR,Darton State College,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,19,18,11,18,11,19,23,7,27,23,23,34
+3,State Universities,2,Comprehensive Universities,UNGA,University of North Georgia,VSU,Valdosta State University,582,576,679,635,613,675,718,750,897,853,685,665,1,1,2,5,4,1,2,4,6,3,6,15
+3,State Universities,1,Research Universities,SPS,Southern Polytechnic State University,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,22,29,43,30,31,54,71,67,67,46,53,50
+1,Research Universities,3,State Universities,GSU,Georgia State University,AAS,Armstrong Atlantic State University,436,407,418,376,360,378,409,384,369,436,388,333,13,16,13,7,22,13,16,7,11,24,13,17
+2,Comprehensive Universities,3,State Universities,GSC,Georgia Southern University,SPS,Southern Polytechnic State University,550,601,590,596,633,639,702,707,658,775,750,647,6,8,6,9,24,18,21,25,17,23,27,25
+4,State Colleges,2,Comprehensive Universities,MGSC,Middle Georgia State College,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,9,10,13,19,26,19,28,22,28,16,16,45
+3,State Universities,1,Research Universities,UNGA,University of North Georgia,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,6,11,6,14,7,12,14,8,16,21,11,32
+5,Out-of-System,3,State Universities,OUT,Non-USG Institutions,FVS,Fort Valley State University,4305,4039,3801,3876,3737,3833,4303,4471,4281,4406,4076,4007,95,99,79,80,91,81,129,120,128,122,119,117
+1,Research Universities,4,State Colleges,AUG,Augusta State University,EGC,East Georgia State College,409,451,427,403,456,524,640,626,671,612,536,604,2,5,7,3,7,17,11,12,6,0,4,0
+4,State Colleges,2,Comprehensive Universities,GDN,Gordon State College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,16,16,18,18,16,14,11,9,10,7,9,6
+3,State Universities,3,State Universities,SSU,Savannah State University,GCM,Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,1,1,2,0,0,6,0,1,0,1,0
+3,State Universities,4,State Colleges,ALS,Albany State University,MAC,Macon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,6,13,11,14,9,6,13,9,11,18,2,0
+3,State Universities,4,State Colleges,ALS,Albany State University,DAL,Dalton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,1,0,0,0,0,0,2,0,1,0,0
+3,State Universities,1,Research Universities,SSU,Savannah State University,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,0,2,5,3,4,6,8,5,8,8,1,12
+3,State Universities,2,Comprehensive Universities,NGC,North Georgia College & State University,VSU,Valdosta State University,582,576,679,635,613,675,718,750,897,853,685,665,1,1,2,5,4,1,2,4,6,3,1,0
+4,State Colleges,3,State Universities,BAN,Bainbridge State College,UNGA,University of North Georgia,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,9,5
+3,State Universities,4,State Colleges,GAN,Gainesville State College,GHC,Georgia Highlands College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,3,3,6,7,7,7,9,6,8,7,1,0
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,GPC,Georgia Perimeter College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,2597,2818,2560,2423,2758,2789,3085,3212,3605,2816,2122,2337
+4,State Colleges,1,Research Universities,WAY,Waycross College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,1,0,1,1,1,0,0,0,1,1,0,0
+4,State Colleges,3,State Universities,WAY,Waycross College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,1,0,1,0,1,0,0,1,2,0,0
+1,Research Universities,4,State Colleges,AUG,Augusta State University,GPC,Georgia Perimeter College,409,451,427,403,456,524,640,626,671,612,536,604,9,13,10,15,14,13,20,18,22,16,7,0
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,EGC,East Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,1,1,0,2,2,5,6,2,0,7,3
+4,State Colleges,4,State Colleges,SGC,South Georgia College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,18,17,23,12,16,17,16,19,19,31,13,0
+3,State Universities,2,Comprehensive Universities,GSW,Georgia Southwestern State University,UWG,University of West Georgia,582,576,679,635,613,675,718,750,897,853,685,665,6,2,1,3,1,7,3,1,4,4,7,6
+4,State Colleges,3,State Universities,DAL,Dalton State College,GCM,Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,5,1,3,0,1,3,2,0,6,1,1,3
+4,State Colleges,1,Research Universities,SGSC,South Georgia State College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,0,0,1,0,0,3,2,1,0,0,0
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,GPC,Georgia Perimeter College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,17,23,25,15,19,13,14,22,20,16,18,46
+1,Research Universities,2,Comprehensive Universities,GSU,Georgia State University,VSU,Valdosta State University,457,438,425,401,353,377,397,398,369,403,352,335,7,6,6,12,8,10,9,9,10,11,9,11
+3,State Universities,3,State Universities,AAS,Armstrong Atlantic State University,SPS,Southern Polytechnic State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,4,3,1,2,4,0,3,4,10,9,6
+2,Comprehensive Universities,3,State Universities,KEN,Kennesaw State University,UNGA,University of North Georgia,550,601,590,596,633,639,702,707,658,775,750,647,0,0,0,0,0,0,0,0,0,0,76,76
+3,State Universities,4,State Colleges,ALS,Albany State University,DAR,Darton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,74,66,64,52,40,44,52,54,39,47,38,43
+3,State Universities,3,State Universities,AAS,Armstrong Atlantic State University,CSC,Clayton State University,691,801,890,788,844,859,880,964,938,1023,728,557,4,3,12,7,5,9,9,7,12,8,6,6
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,EGC,East Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,0,4,12,7,16,10,12,3,0,4,5
+4,State Colleges,4,State Colleges,MAC,Macon State College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,26,29,40,20,13,28,37,18,20,26,3,0
+4,State Colleges,3,State Universities,SGSC,South Georgia State College,GCM,Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,2,0,4,5,4,2,1,4,3,6,4
+4,State Colleges,2,Comprehensive Universities,EGC,East Georgia State College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,5,2,3,6,6,2,4,2,4,6,8,3
+1,Research Universities,2,Comprehensive Universities,AUG,Augusta State University,GSC,Georgia Southern University,457,438,425,401,353,377,397,398,369,403,352,335,14,33,25,22,23,26,37,28,33,36,11,0
+3,State Universities,4,State Colleges,SPS,Southern Polytechnic State University,CCG,College of Coastal Georgia,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,1,0,0,1,2,0,0,1
+1,Research Universities,4,State Colleges,GIT,Georgia Institute of Technology,MID,Middle Georgia College,409,451,427,403,456,524,640,626,671,612,536,604,3,2,1,1,1,2,2,3,2,1,0,0
+4,State Colleges,1,Research Universities,MID,Middle Georgia College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,39,28,36,28,28,37,28,20,18,21,5,0
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,MGSC,Middle Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,2,3
+4,State Colleges,3,State Universities,SGC,South Georgia College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,3,2,4,2,3,3,2,0,5,0,0
+3,State Universities,3,State Universities,CSC,Clayton State University,AAS,Armstrong Atlantic State University,691,801,890,788,844,859,880,964,938,1023,728,557,4,3,0,10,6,8,4,1,4,4,3,8
+4,State Colleges,3,State Universities,GPC,Georgia Perimeter College,GCM,Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,32,42,48,35,57,46,44,31,32,34,38,30
+4,State Colleges,1,Research Universities,GDN,Gordon State College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,8,5,8,6,8,6,2,3,1,4,0,0
+4,State Colleges,4,State Colleges,DAR,Darton State College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,2,0,2,2,1,1,1,3,8,5,5
+1,Research Universities,3,State Universities,AUG,Augusta State University,FVS,Fort Valley State University,436,407,418,376,360,378,409,384,369,436,388,333,1,0,1,0,0,0,0,2,1,0,0,0
+4,State Colleges,1,Research Universities,EGC,East Georgia State College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,17,17,10,18,12,9,12,17,16,16,5,0
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,DAL,Dalton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,5,4,1,3,1,3,8,4,6,7,6
+2,Comprehensive Universities,1,Research Universities,GSC,Georgia Southern University,GIT,Georgia Institute of Technology,728,750,761,875,902,923,976,965,1101,1069,996,949,82,79,76,57,87,75,102,107,123,105,64,78
+1,Research Universities,4,State Colleges,AUG,Augusta State University,GHC,Georgia Highlands College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,2,1,1,4,0,0,3,2,0,0
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,2,0,1,0,3,1,1,0,2,1
+4,State Colleges,1,Research Universities,BAN,Bainbridge State College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,0,1,1,0,2,0,1,0,1,0,0
+3,State Universities,4,State Colleges,CSU,Columbus State University,GHC,Georgia Highlands College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,0,1,3,0,5,2,4,4,2,8,5
+3,State Universities,3,State Universities,NGC,North Georgia College & State University,CSU,Columbus State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,7,9,5,6,3,0,6,3,11,1,0
+4,State Colleges,4,State Colleges,GDN,Gordon State College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,5,4,11,12,12,18,14,26,36,40,47,33
+3,State Universities,4,State Colleges,SSU,Savannah State University,EGC,East Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,4,2,3,5,5,6,6,3,0,7,11
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,60,59,37,26,32,51,44,52,60,53,54,43
+3,State Universities,3,State Universities,GSW,Georgia Southwestern State University,GAN,Gainesville State College,691,801,890,788,844,859,880,964,938,1023,728,557,1,5,4,4,6,5,6,8,6,5,2,0
+4,State Colleges,3,State Universities,WAY,Waycross College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,1,1,5,1,0,1,0,0,0,0,0
+1,Research Universities,4,State Colleges,UGA,University of Georgia,AMC,Atlanta Metropolitan State College,409,451,427,403,456,524,640,626,671,612,536,604,0,1,1,2,1,1,3,1,2,0,1,1
+2,Comprehensive Universities,4,State Colleges,UWG,University of West Georgia,GHC,Georgia Highlands College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,38,37,26,28,21,20,28,36,32,33,51,39
+1,Research Universities,3,State Universities,GRU,Georgia Regents University,GCM,Georgia College & State University,436,407,418,376,360,378,409,384,369,436,388,333,0,1,1,0,1,1,0,0,0,0,0,5
+4,State Colleges,2,Comprehensive Universities,CCG,College of Coastal Georgia,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,12,5,6,5,7,5,4,12,12,6,5,10
+4,State Colleges,4,State Colleges,SGC,South Georgia College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,7,4,6,3,3,5,4,9,7,6,0
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,MGSC,Middle Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,11,13
+4,State Colleges,1,Research Universities,MAC,Macon State College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,8,5,5,3,5,3,2,1,0,1,0,0
+3,State Universities,1,Research Universities,GSW,Georgia Southwestern State University,UGA,University of Georgia,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,4,19,8,6,9,6,10,10,4,12,5,8
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,GDN,Gordon State College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,172,180,223,201,222,274,346,384,377,262,226,255
+3,State Universities,3,State Universities,SPS,Southern Polytechnic State University,ALS,Albany State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,1,1,0,0,0,2,0,0,0,0,1
+4,State Colleges,3,State Universities,ABC,Abraham Baldwin Agricultural College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,2,4,2,0,2,0,3,2,3,2,0
+4,State Colleges,3,State Universities,GDN,Gordon State College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,2,1,2,1,1,2,2,3,2,0
+4,State Colleges,4,State Colleges,DAR,Darton State College,SGSC,South Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,6,9
+3,State Universities,2,Comprehensive Universities,FVS,Fort Valley State University,VSU,Valdosta State University,582,576,679,635,613,675,718,750,897,853,685,665,3,9,8,14,1,2,5,11,5,3,5,0
+2,Comprehensive Universities,3,State Universities,UWG,University of West Georgia,NGC,North Georgia College & State University,550,601,590,596,633,639,702,707,658,775,750,647,17,9,10,8,8,5,9,9,9,11,7,0
+1,Research Universities,3,State Universities,GRU,Georgia Regents University,UNGA,University of North Georgia,436,407,418,376,360,378,409,384,369,436,388,333,0,0,0,0,0,0,0,0,0,0,0,6
+4,State Colleges,2,Comprehensive Universities,MID,Middle Georgia College,UWG,University of West Georgia,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,10,5,9,5,9,19,14,18,14,9,1,0
+1,Research Universities,4,State Colleges,GSU,Georgia State University,DAR,Darton State College,409,451,427,403,456,524,640,626,671,612,536,604,7,1,5,4,4,8,9,8,7,7,9,4
+4,State Colleges,3,State Universities,AMC,Atlanta Metropolitan State College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,2,0,2,0,1,3,8,2,4,3,4
+3,State Universities,2,Comprehensive Universities,CSC,Clayton State University,UWG,University of West Georgia,582,576,679,635,613,675,718,750,897,853,685,665,32,17,21,27,21,29,25,16,18,17,12,20
+1,Research Universities,4,State Colleges,GRU,Georgia Regents University,CCG,College of Coastal Georgia,409,451,427,403,456,524,640,626,671,612,536,604,0,0,1,0,0,0,0,0,0,0,0,1
+3,State Universities,4,State Colleges,NGC,North Georgia College & State University,EGC,East Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,0,0,1,0,0,0,1,1,0,0,0
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,CCG,College of Coastal Georgia,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,1,1,0,0,0,1,2,1,1,0,1
+4,State Colleges,4,State Colleges,DAR,Darton State College,MGSC,Middle Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,12,23
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,SGC,South Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,0,1,1,0,0,4,2,0,0,0
+4,State Colleges,1,Research Universities,GPC,Georgia Perimeter College,GSU,Georgia State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,772,682,847,1018,1027,1032,1094,1149,1184,1141,1086,1074
+4,State Colleges,3,State Universities,GPC,Georgia Perimeter College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,4,3,6,2,1,9,6,11,5,9,4,10
+4,State Colleges,4,State Colleges,MGSC,Middle Georgia State College,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,6,6,7,17,15,9,23,24,20,23,21,25
+3,State Universities,1,Research Universities,CSC,Clayton State University,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,9,12,10,7,11,6,12,7,9,7,15,13
+2,Comprehensive Universities,4,State Colleges,VSU,Valdosta State University,WAY,Waycross College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,5,7,6,7,11,5,12,18,4,5,1,0
+3,State Universities,4,State Colleges,ALS,Albany State University,BAN,Bainbridge State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,3,4,4,4,3,3,4,4,10,4,1,7
+1,Research Universities,2,Comprehensive Universities,UGA,University of Georgia,UWG,University of West Georgia,457,438,425,401,353,377,397,398,369,403,352,335,15,14,16,20,10,9,16,12,10,21,16,10
+4,State Colleges,3,State Universities,EGC,East Georgia State College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,1,0,2,0,1,1,0,2,2,4,1
+4,State Colleges,3,State Universities,MAC,Macon State College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,7,3,14,6,2,9,4,5,6,17,4,0
+1,Research Universities,4,State Colleges,AUG,Augusta State University,WAY,Waycross College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,1,0,0,2,0,0,1,0,0
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,GGC,Georgia Gwinnett College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,0,0,0,34,287,194,409,607,727,820,615,809
+4,State Colleges,3,State Universities,CCG,College of Coastal Georgia,AAS,Armstrong Atlantic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,97,101,89,109,85,93,78,30,32,26,23,34
+4,State Colleges,3,State Universities,GDN,Gordon State College,AAS,Armstrong Atlantic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,6,18,13,13,13,5,5,13,19,13,5,12
+4,State Colleges,4,State Colleges,MID,Middle Georgia College,EGC,East Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,7,15,13,10,25,27,29,31,13,0,6,0
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,AMC,Atlanta Metropolitan State College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,222,235,209,230,290,325,467,535,487,537,544,463
+1,Research Universities,4,State Colleges,UGA,University of Georgia,GPC,Georgia Perimeter College,409,451,427,403,456,524,640,626,671,612,536,604,45,55,36,26,34,38,47,47,51,40,47,46
+4,State Colleges,3,State Universities,SGSC,South Georgia State College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,3,2,4,2,3,3,2,0,5,3,3
+4,State Colleges,3,State Universities,BAN,Bainbridge State College,AAS,Armstrong Atlantic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,3,2,0,2,1,2,4,1,0,1,3,3
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,10,4,7,7,8,13,8,7,7,7,2,0
+4,State Colleges,2,Comprehensive Universities,MID,Middle Georgia College,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,70,104,95,73,75,110,72,51,64,60,10,0
+1,Research Universities,3,State Universities,AUG,Augusta State University,ALS,Albany State University,436,407,418,376,360,378,409,384,369,436,388,333,2,1,2,0,2,1,1,2,0,0,1,0
+3,State Universities,4,State Colleges,CSU,Columbus State University,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,1,0,4,0,2,3,0,1,3,3,0
+3,State Universities,3,State Universities,UNGA,University of North Georgia,CSU,Columbus State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,7,9,5,6,3,0,6,3,11,7,14
+4,State Colleges,3,State Universities,SGC,South Georgia College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,1,2,1,1,0,0,2,1,2,2,0
+3,State Universities,4,State Colleges,SSU,Savannah State University,DAR,Darton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,4,4,2,2,4,1,3,5,3,3,2,1
+4,State Colleges,4,State Colleges,SGC,South Georgia College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,0,0,3,1,2,1,3,6,2,0
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,MAC,Macon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,11,10,13,22,17,9,14,20,13,17,6,0
+3,State Universities,3,State Universities,ALS,Albany State University,FVS,Fort Valley State University,691,801,890,788,844,859,880,964,938,1023,728,557,5,4,1,1,3,5,11,2,3,6,5,8
+4,State Colleges,4,State Colleges,SGC,South Georgia College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,4,6,1,5,7,5,6,8,7,9,1,0
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,0,1,0,0,2,6,1,0,0,0
+4,State Colleges,3,State Universities,WAY,Waycross College,SPS,Southern Polytechnic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,1,0,2,2,0,3,0,1,0,1,0
+3,State Universities,1,Research Universities,CSC,Clayton State University,UGA,University of Georgia,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,14,10,18,6,16,9,19,12,16,11,12,8
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,44,67,227,232,303,309,346,251,252
+3,State Universities,4,State Colleges,CSC,Clayton State University,MID,Middle Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,3,0,1,0,2,2,3,7,3,3,2,0
+3,State Universities,3,State Universities,GAN,Gainesville State College,CSU,Columbus State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,5,4,7,8,11,10,6,3,8,4,0
+2,Comprehensive Universities,4,State Colleges,VSU,Valdosta State University,CCG,College of Coastal Georgia,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,14,7,15,11,13,24,18,25,24,21,25,16
+4,State Colleges,4,State Colleges,MGSC,Middle Georgia State College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,0,1,0,0,5,10,0,1,0,0
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,3,1,2,5,2,0,1,1,2,4,2,1
+2,Comprehensive Universities,3,State Universities,VSU,Valdosta State University,AAS,Armstrong Atlantic State University,550,601,590,596,633,639,702,707,658,775,750,647,24,32,30,27,22,23,33,30,21,16,25,13
+4,State Colleges,3,State Universities,DAL,Dalton State College,ALS,Albany State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,2,0,0,0,0,0,0,0,1
+3,State Universities,1,Research Universities,CSC,Clayton State University,GRU,Georgia Regents University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,5,3,2,4,3,4,1,2,7,4,4,7
+1,Research Universities,4,State Colleges,UGA,University of Georgia,CCG,College of Coastal Georgia,409,451,427,403,456,524,640,626,671,612,536,604,3,2,5,3,3,2,2,4,2,7,3,3
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,MGSC,Middle Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,14,14
+4,State Colleges,1,Research Universities,GHC,Georgia Highlands College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,1,2,2,2,4,1,5,7,2,4,2,2
+4,State Colleges,2,Comprehensive Universities,ABC,Abraham Baldwin Agricultural College,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,3,8,10,11,12,17,13,19,17,20,9,10
+3,State Universities,2,Comprehensive Universities,SPS,Southern Polytechnic State University,GSC,Georgia Southern University,582,576,679,635,613,675,718,750,897,853,685,665,0,7,5,7,4,5,7,5,6,2,5,5
+4,State Colleges,2,Comprehensive Universities,MGSC,Middle Georgia State College,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,70,104,95,73,75,110,72,51,64,60,42,57
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,EGC,East Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,6,2,1,5,11,5,11,2,0,19,12
+1,Research Universities,4,State Colleges,GIT,Georgia Institute of Technology,DAL,Dalton State College,409,451,427,403,456,524,640,626,671,612,536,604,1,1,3,2,0,1,1,2,2,2,1,2
+4,State Colleges,4,State Colleges,GGC,Georgia Gwinnett College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,2,2
+4,State Colleges,3,State Universities,MAC,Macon State College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,4,2,3,3,3,2,3,4,7,4,0,0
+3,State Universities,4,State Colleges,CSC,Clayton State University,DAL,Dalton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,1,2,1,1,3,1,0,1,3,0,0
+4,State Colleges,3,State Universities,GGC,Georgia Gwinnett College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,0,1
+4,State Colleges,4,State Colleges,EGC,East Georgia State College,GDN,Gordon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,4,3,1,1,2,2,2,3,3,1,3,2
+1,Research Universities,3,State Universities,AUG,Augusta State University,GCM,Georgia College & State University,436,407,418,376,360,378,409,384,369,436,388,333,11,1,6,3,5,3,5,2,4,7,3,0
+2,Comprehensive Universities,3,State Universities,GSC,Georgia Southern University,ALS,Albany State University,550,601,590,596,633,639,702,707,658,775,750,647,2,2,5,5,2,2,0,1,3,5,2,1
+4,State Colleges,1,Research Universities,GDN,Gordon State College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,39,17,37,45,31,56,64,33,28,15,30,24
+3,State Universities,3,State Universities,SPS,Southern Polytechnic State University,GCM,Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,2,3,3,2,0,2,2,2,0,0,1
+2,Comprehensive Universities,4,State Colleges,GSC,Georgia Southern University,MAC,Macon State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,43,42,35,38,44,37,35,28,25,34,11,0
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,41,36,45,52,66,74,102,112,96,90,74,56
+4,State Colleges,3,State Universities,GDN,Gordon State College,ALS,Albany State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,4,5,6,5,1,2,3,2,5,1,1
+1,Research Universities,1,Research Universities,AUG,Augusta State University,GRU,Georgia Regents University,535,591,544,522,566,504,573,509,533,509,457,447,41,69,72,44,57,54,32,31,28,37,0,0
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,MGSC,Middle Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,1,4
+2,Comprehensive Universities,3,State Universities,KEN,Kennesaw State University,GSW,Georgia Southwestern State University,550,601,590,596,633,639,702,707,658,775,750,647,0,4,3,6,2,4,5,1,4,9,7,4
+4,State Colleges,3,State Universities,SGSC,South Georgia State College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,2,0,0,1,2,2,2,1,1,0,0
+4,State Colleges,3,State Universities,BAN,Bainbridge State College,ALS,Albany State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,13,7,12,25,33,31,52,59,9,17,21,22
+1,Research Universities,4,State Colleges,GIT,Georgia Institute of Technology,SGC,South Georgia College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,1,1,0,0,0,0,0,0,0
+3,State Universities,3,State Universities,AAS,Armstrong Atlantic State University,GSW,Georgia Southwestern State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,1,2,1,2,3,3,6,1,2,2,2
+1,Research Universities,1,Research Universities,GIT,Georgia Institute of Technology,UGA,University of Georgia,535,591,544,522,566,504,573,509,533,509,457,447,13,11,4,8,20,13,7,8,2,4,6,4
+3,State Universities,2,Comprehensive Universities,FVS,Fort Valley State University,UWG,University of West Georgia,582,576,679,635,613,675,718,750,897,853,685,665,6,2,11,8,3,7,6,5,10,12,6,4
+1,Research Universities,3,State Universities,GSU,Georgia State University,SSU,Savannah State University,436,407,418,376,360,378,409,384,369,436,388,333,4,2,2,3,0,1,3,2,5,3,3,6
+3,State Universities,1,Research Universities,FVS,Fort Valley State University,GRU,Georgia Regents University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,1,1,3,3,1,0,0,1,0,0,2,1
+3,State Universities,3,State Universities,FVS,Fort Valley State University,AAS,Armstrong Atlantic State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,2,2,1,0,2,4,1,5,2,1,2
+1,Research Universities,3,State Universities,GIT,Georgia Institute of Technology,CSU,Columbus State University,436,407,418,376,360,378,409,384,369,436,388,333,4,4,5,6,7,4,4,1,0,5,1,1
+3,State Universities,4,State Colleges,GCM,Georgia College & State University,MID,Middle Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,11,9,4,4,10,5,9,6,4,5,2,0
+4,State Colleges,3,State Universities,MGSC,Middle Georgia State College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,5,5,4,6,3,8,12,9,20,13,7,13
+4,State Colleges,3,State Universities,MID,Middle Georgia College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,7,4,8,11,11,16,16,18,9,11,1,0
+1,Research Universities,1,Research Universities,GSU,Georgia State University,UGA,University of Georgia,535,591,544,522,566,504,573,509,533,509,457,447,89,121,106,118,118,107,157,128,145,134,141,162
+4,State Colleges,3,State Universities,GHC,Georgia Highlands College,SPS,Southern Polytechnic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,19,16,25,40,46,60,62,66,57,84,66,63
+4,State Colleges,2,Comprehensive Universities,MAC,Macon State College,UWG,University of West Georgia,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,2,4,3,4,2,3,3,2,2,4,2,0
+1,Research Universities,3,State Universities,UGA,University of Georgia,AAS,Armstrong Atlantic State University,436,407,418,376,360,378,409,384,369,436,388,333,11,15,12,14,8,11,9,6,8,12,3,9
+1,Research Universities,3,State Universities,GRU,Georgia Regents University,CSU,Columbus State University,436,407,418,376,360,378,409,384,369,436,388,333,0,0,0,0,0,0,0,0,0,1,0,1
+2,Comprehensive Universities,3,State Universities,GSC,Georgia Southern University,GAN,Gainesville State College,550,601,590,596,633,639,702,707,658,775,750,647,57,34,41,55,46,41,47,49,53,60,17,0
+4,State Colleges,1,Research Universities,AMC,Atlanta Metropolitan State College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,4,1,1,1,0,3,3,4,7,5,1,5
+3,State Universities,4,State Colleges,CSC,Clayton State University,GDN,Gordon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,40,38,40,35,45,30,48,33,19,28,17,17
+3,State Universities,2,Comprehensive Universities,GAN,Gainesville State College,UWG,University of West Georgia,582,576,679,635,613,675,718,750,897,853,685,665,5,14,14,6,11,15,18,22,15,13,4,0
+4,State Colleges,4,State Colleges,DAR,Darton State College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,30,35,39,51,40,31,27,24,42,27,27,21
+3,State Universities,3,State Universities,AAS,Armstrong Atlantic State University,CSU,Columbus State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,6,10,6,6,5,8,7,6,8,4,8
+4,State Colleges,1,Research Universities,GPC,Georgia Perimeter College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,97,118,117,105,94,123,116,128,154,114,110,104
+4,State Colleges,3,State Universities,DAR,Darton State College,ALS,Albany State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,116,101,99,122,132,125,149,130,78,106,97,81
+4,State Colleges,1,Research Universities,DAR,Darton State College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,4,4,1,2,4,2,1,6,2,1,5,6
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,5,7,4,7,5,13,5,10,6,7,9,6
+1,Research Universities,1,Research Universities,GRU,Georgia Regents University,AUG,Augusta State University,535,591,544,522,566,504,573,509,533,509,457,447,0,0,0,0,1,0,0,0,0,0,0,0
+3,State Universities,4,State Colleges,CSC,Clayton State University,SGC,South Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,1,1,1,0,0
+4,State Colleges,4,State Colleges,EGC,East Georgia State College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,2,2,1,2,2,0,0,0,0,0,0
+1,Research Universities,3,State Universities,UGA,University of Georgia,GSW,Georgia Southwestern State University,436,407,418,376,360,378,409,384,369,436,388,333,8,5,6,13,4,11,13,8,8,14,7,5
+3,State Universities,3,State Universities,CSC,Clayton State University,SPS,Southern Polytechnic State University,691,801,890,788,844,859,880,964,938,1023,728,557,8,9,7,9,7,11,9,10,11,5,12,12
+4,State Colleges,2,Comprehensive Universities,MAC,Macon State College,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,15,23,41,23,23,30,34,30,24,25,4,0
+1,Research Universities,4,State Colleges,GSU,Georgia State University,EGC,East Georgia State College,409,451,427,403,456,524,640,626,671,612,536,604,2,0,0,0,1,1,3,1,1,0,6,0
+3,State Universities,3,State Universities,GCM,Georgia College & State University,ALS,Albany State University,691,801,890,788,844,859,880,964,938,1023,728,557,0,0,0,0,2,1,0,0,0,0,1,0
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,SGSC,South Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,0,3
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,GHC,Georgia Highlands College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,49,54,66,67,91,87,104,80,98,114,106,84
+4,State Colleges,4,State Colleges,MGSC,Middle Georgia State College,BAN,Bainbridge State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,2,1,3,4,2,2,2,0,1,2
+1,Research Universities,1,Research Universities,UGA,University of Georgia,AUG,Augusta State University,535,591,544,522,566,504,573,509,533,509,457,447,21,24,12,29,21,18,22,12,16,12,8,0
+3,State Universities,3,State Universities,CSC,Clayton State University,CSU,Columbus State University,691,801,890,788,844,859,880,964,938,1023,728,557,4,6,8,8,6,9,6,6,5,8,2,14
+4,State Colleges,3,State Universities,ABC,Abraham Baldwin Agricultural College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,6,1,3,3,2,3,8,5,6,5,1,0
+4,State Colleges,4,State Colleges,DAL,Dalton State College,MGSC,Middle Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,0,3
+4,State Colleges,1,Research Universities,DAR,Darton State College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,2,3,1,4,3,3,2,5,7,5,4,5
+4,State Colleges,4,State Colleges,MID,Middle Georgia College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,2,1,5,5,17,3,0
+3,State Universities,4,State Colleges,GCM,Georgia College & State University,EGC,East Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,3,1,2,1,0,3,4,3,0,2,2
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,AMC,Atlanta Metropolitan State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,1,2,2,1,2,0,1,2,5,3,9,4
+4,State Colleges,4,State Colleges,DAR,Darton State College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,8,7,12,13,12,12,9,15,19,30,12,0
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,GHC,Georgia Highlands College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,330,369,433,378,493,523,626,593,651,715,511,522
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,0,1,0,0,1,0,0,6,3,5
+4,State Colleges,1,Research Universities,SGC,South Georgia College,GSU,Georgia State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,4,2,3,6,4,3,0,3,4,7,1,0
+4,State Colleges,3,State Universities,ABC,Abraham Baldwin Agricultural College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,4,1,6,5,4,4,8,4,4,3,3,2
+4,State Colleges,1,Research Universities,MGSC,Middle Georgia State College,GSU,Georgia State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,6,9,7,20,16,20,22,24,15,15,12,20
+4,State Colleges,3,State Universities,MAC,Macon State College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,7,7,1,7,5,7,7,4,14,7,2,0
+4,State Colleges,1,Research Universities,MGSC,Middle Georgia State College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,39,28,36,28,28,37,28,20,18,21,16,4
+3,State Universities,4,State Colleges,SSU,Savannah State University,BAN,Bainbridge State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,1,1,1,0,0,0,1,0,2,2
+3,State Universities,1,Research Universities,GCM,Georgia College & State University,GSU,Georgia State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,32,31,25,34,57,37,59,43,39,37,36,47
+2,Comprehensive Universities,1,Research Universities,VSU,Valdosta State University,GRU,Georgia Regents University,728,750,761,875,902,923,976,965,1101,1069,996,949,9,12,12,2,5,2,6,2,1,2,10,10
+4,State Colleges,1,Research Universities,EGC,East Georgia State College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,1,0,1,1,0,1,1,0,1,0,1,1
+1,Research Universities,2,Comprehensive Universities,AUG,Augusta State University,KEN,Kennesaw State University,457,438,425,401,353,377,397,398,369,403,352,335,7,12,7,7,12,11,13,19,8,21,8,0
+3,State Universities,1,Research Universities,GSW,Georgia Southwestern State University,GSU,Georgia State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,6,6,3,8,5,12,9,4,10,7,9,5
+4,State Colleges,1,Research Universities,GGC,Georgia Gwinnett College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,0,0,0,0,0,0,0,0,0,13,29
+1,Research Universities,3,State Universities,GSU,Georgia State University,FVS,Fort Valley State University,436,407,418,376,360,378,409,384,369,436,388,333,3,3,2,0,1,1,2,3,4,4,3,1
+4,State Colleges,3,State Universities,CCG,College of Coastal Georgia,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,0,0,2,0,1,0,0,4,1,0,1
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,WAY,Waycross College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,1,0,1,0,1,0,0,0
+4,State Colleges,3,State Universities,DAL,Dalton State College,AAS,Armstrong Atlantic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,3,3,2,3,3,4,2,4,2,5,3,3
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,0,0,3,1,2,1,3,6,6,11
+3,State Universities,4,State Colleges,NGC,North Georgia College & State University,GDN,Gordon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,3,2,0,2,3,3,1,2,3,1,0
+3,State Universities,3,State Universities,CSC,Clayton State University,UNGA,University of North Georgia,691,801,890,788,844,859,880,964,938,1023,728,557,0,0,0,0,0,0,0,0,0,0,4,4
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,7,13,13,21,19,18,28,36,21,16,9,0
+4,State Colleges,3,State Universities,EGC,East Georgia State College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,1,1,0,0,0,1,0,1,2,1,0
+3,State Universities,1,Research Universities,NGC,North Georgia College & State University,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,6,11,6,14,7,12,14,8,16,21,2,0
+4,State Colleges,2,Comprehensive Universities,AMC,Atlanta Metropolitan State College,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,6,2,2,4,3,6,2,1,2,4,5,9
+4,State Colleges,3,State Universities,CCG,College of Coastal Georgia,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,3,3,1,6,2,4,3,2,4,3,7
+4,State Colleges,1,Research Universities,ABC,Abraham Baldwin Agricultural College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,70,62,66,84,71,72,81,53,62,59,46,59
+4,State Colleges,3,State Universities,ABC,Abraham Baldwin Agricultural College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,13,12,12,16,19,14,30,20,20,9,4,0
+4,State Colleges,3,State Universities,GHC,Georgia Highlands College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,1,0,1,1,1,1
+4,State Colleges,3,State Universities,GDN,Gordon State College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,6,7,13,9,5,7,6,5,4,3,3,4
+3,State Universities,2,Comprehensive Universities,UNGA,University of North Georgia,KEN,Kennesaw State University,582,576,679,635,613,675,718,750,897,853,685,665,33,23,23,22,31,33,27,26,47,48,46,80
+4,State Colleges,3,State Universities,GHC,Georgia Highlands College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,15,13,5,9,6,6,6,9,11,13,0,0
+2,Comprehensive Universities,3,State Universities,GSC,Georgia Southern University,NGC,North Georgia College & State University,550,601,590,596,633,639,702,707,658,775,750,647,9,4,13,8,8,8,12,7,3,15,4,0
+3,State Universities,2,Comprehensive Universities,NGC,North Georgia College & State University,UWG,University of West Georgia,582,576,679,635,613,675,718,750,897,853,685,665,9,5,11,10,10,6,8,5,4,17,3,0
+3,State Universities,2,Comprehensive Universities,SPS,Southern Polytechnic State University,KEN,Kennesaw State University,582,576,679,635,613,675,718,750,897,853,685,665,80,70,78,73,58,61,66,60,66,70,50,37
+4,State Colleges,4,State Colleges,MAC,Macon State College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,2,1,2,1,4,2,2,2,0,0
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,6,11,5,9,6,10,11,14,15,23,20,26
+3,State Universities,4,State Colleges,GCM,Georgia College & State University,CCG,College of Coastal Georgia,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,2,0,1,0,2,0,6,4,5,1,3
+4,State Colleges,3,State Universities,BAN,Bainbridge State College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,1,0,1,2,0,1,0,0,2,2
+3,State Universities,3,State Universities,CSC,Clayton State University,GCM,Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,4,4,3,4,3,2,4,6,3,3,0
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,1,2,2,5,5,2,2
+4,State Colleges,3,State Universities,SGC,South Georgia College,AAS,Armstrong Atlantic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,11,10,10,7,10,10,16,6,13,4,1,0
+3,State Universities,3,State Universities,UNGA,University of North Georgia,CSC,Clayton State University,691,801,890,788,844,859,880,964,938,1023,728,557,5,7,10,6,4,2,2,7,4,3,6,6
+4,State Colleges,3,State Universities,MGSC,Middle Georgia State College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,5,7,6,11,7,12,18,14,24,15,10,25
+4,State Colleges,1,Research Universities,DAL,Dalton State College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,1,1,3,1,1,5,4,1,1,4,0,1
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,GPC,Georgia Perimeter College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,13,15,12,9,10,16,19,20,21,18,11,16
+4,State Colleges,3,State Universities,DAL,Dalton State College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,10,6,9,5,5,7,12,14,10,16,3,0
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,GDN,Gordon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,2,1,3,1,4,2,2,2,1,3,1
+4,State Colleges,3,State Universities,MAC,Macon State College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,9,14,10,15,9,13,4,13,13,12,7,0
+3,State Universities,3,State Universities,GSW,Georgia Southwestern State University,ALS,Albany State University,691,801,890,788,844,859,880,964,938,1023,728,557,9,7,12,9,7,11,9,6,6,2,13,2
+3,State Universities,1,Research Universities,ALS,Albany State University,AUG,Augusta State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,3,3,7,1,6,3,6,5,9,3,1,0
+2,Comprehensive Universities,4,State Colleges,UWG,University of West Georgia,WAY,Waycross College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,0,0,1,1,0,1,0,0,1,0,0,0
+4,State Colleges,1,Research Universities,MGSC,Middle Georgia State College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,2,7,4,3,2,2,5,1,1,3,3,8
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,BAN,Bainbridge State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,1,1,4,4,4,3,2,2,4,4,3
+3,State Universities,2,Comprehensive Universities,CSU,Columbus State University,GSC,Georgia Southern University,582,576,679,635,613,675,718,750,897,853,685,665,8,8,10,15,11,7,8,10,18,12,12,9
+3,State Universities,3,State Universities,SPS,Southern Polytechnic State University,CSU,Columbus State University,691,801,890,788,844,859,880,964,938,1023,728,557,5,3,0,0,1,1,1,2,3,3,1,3
+4,State Colleges,4,State Colleges,MAC,Macon State College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,1,3,1,0,1,0,0,0
+3,State Universities,3,State Universities,GCM,Georgia College & State University,SPS,Southern Polytechnic State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,5,2,0,2,5,2,2,1,10,8,3
+2,Comprehensive Universities,3,State Universities,UWG,University of West Georgia,GAN,Gainesville State College,550,601,590,596,633,639,702,707,658,775,750,647,24,30,14,27,27,20,18,27,18,22,4,0
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,DAR,Darton State College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,223,215,305,352,322,406,619,563,718,874,877,832
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,2,0,2,1,4,0,3,0,4,2,6
+4,State Colleges,1,Research Universities,EGC,East Georgia State College,GSU,Georgia State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,2,2,3,2,0,4,6,2,5,8,9,16
+4,State Colleges,4,State Colleges,MID,Middle Georgia College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,5,8,7,14,2,8,4,11,5,8,3,0
+3,State Universities,4,State Colleges,GCM,Georgia College & State University,MGSC,Middle Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,8,29
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,EGC,East Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,0,0,1,0,0,1,0,0,2,4
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,MID,Middle Georgia College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,0,0,2,2,3,6,3,6,5,5,6,0
+2,Comprehensive Universities,2,Comprehensive Universities,KEN,Kennesaw State University,VSU,Valdosta State University,340,409,380,422,399,428,428,429,531,485,477,496,7,9,6,5,11,14,9,6,15,9,9,18
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,MID,Middle Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,4,6,2,5,3,1,4,4,2,0,1,0
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,DAR,Darton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,45,31,40,57,67,52,54,58,49,36,52,43
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,6,1,4,2,6,6,2,6,9,6,7,8
+2,Comprehensive Universities,1,Research Universities,VSU,Valdosta State University,UGA,University of Georgia,728,750,761,875,902,923,976,965,1101,1069,996,949,42,48,49,59,62,69,70,54,76,60,60,54
+3,State Universities,1,Research Universities,FVS,Fort Valley State University,GSU,Georgia State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,13,7,20,10,11,10,20,26,35,19,26,21
+3,State Universities,1,Research Universities,SPS,Southern Polytechnic State University,GSU,Georgia State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,20,19,22,20,21,17,24,30,24,21,31,18
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,WAY,Waycross College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,1,0,0,0,0,0,0,1,0,0,0,0
+4,State Colleges,4,State Colleges,GGC,Georgia Gwinnett College,MGSC,Middle Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,5,4
+2,Comprehensive Universities,1,Research Universities,KEN,Kennesaw State University,GRU,Georgia Regents University,728,750,761,875,902,923,976,965,1101,1069,996,949,4,6,8,5,6,6,3,5,3,3,14,12
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,MGSC,Middle Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,3,0
+4,State Colleges,4,State Colleges,DAL,Dalton State College,GDN,Gordon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,1,0,1,1,0,0,2,0,0,0
+4,State Colleges,4,State Colleges,MAC,Macon State College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,2,0,5,2,1,2,1,0,2,0
+4,State Colleges,1,Research Universities,GPC,Georgia Perimeter College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,27,16,21,31,23,20,14,17,16,17,34,37
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,GHC,Georgia Highlands College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,3,4,5,0,3,9,7,8,3,8,6,11
+3,State Universities,4,State Colleges,SPS,Southern Polytechnic State University,AMC,Atlanta Metropolitan State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,3,0,1,0,1,3,1,1,3,2,3
+4,State Colleges,4,State Colleges,WAY,Waycross College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,2,0,0,1,0,0,0,0,0,0
+4,State Colleges,4,State Colleges,EGC,East Georgia State College,DAL,Dalton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,2,2,0,0,0,0,0,0
+4,State Colleges,3,State Universities,EGC,East Georgia State College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,4,0,2,2,2,9,9,8,9,2,6,4
+3,State Universities,3,State Universities,ALS,Albany State University,GAN,Gainesville State College,691,801,890,788,844,859,880,964,938,1023,728,557,1,1,0,0,2,0,3,2,1,1,0,0
+3,State Universities,1,Research Universities,GCM,Georgia College & State University,GRU,Georgia Regents University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,9,7,9,2,3,5,0,5,1,8,13,13
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,7,4,6,3,3,5,4,9,7,6,0
+2,Comprehensive Universities,4,State Colleges,VSU,Valdosta State University,MGSC,Middle Georgia State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,0,0,0,0,0,0,0,0,0,0,28,32
+3,State Universities,3,State Universities,FVS,Fort Valley State University,UNGA,University of North Georgia,691,801,890,788,844,859,880,964,938,1023,728,557,0,0,0,0,0,0,0,0,0,0,0,2
+1,Research Universities,4,State Colleges,GSU,Georgia State University,GHC,Georgia Highlands College,409,451,427,403,456,524,640,626,671,612,536,604,5,4,5,11,4,8,12,7,7,7,18,11
+4,State Colleges,1,Research Universities,CCG,College of Coastal Georgia,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,2,1,3,3,2,1,3,2,1,4,2,0
+3,State Universities,4,State Colleges,SPS,Southern Polytechnic State University,BAN,Bainbridge State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,0,0
+3,State Universities,3,State Universities,GSW,Georgia Southwestern State University,NGC,North Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,0,2,0,1,0,1,1,2,2,1,0
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,SGSC,South Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,5,1
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,1,0,1,2,0,0,0,0
+4,State Colleges,3,State Universities,CCG,College of Coastal Georgia,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,10,3,5,6,10,3,6,6,2,6,2,0
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,0,0,1,3,2,0,2,0,2,0,3
+4,State Colleges,4,State Colleges,EGC,East Georgia State College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,5,0,0,0,0,1,2,2,8,7,3
+4,State Colleges,3,State Universities,MAC,Macon State College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,1,3,2,1,3,4,2,0,2,0,0
+4,State Colleges,4,State Colleges,GDN,Gordon State College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,55,30,42,53,58,42,45,51,43,50,19,0
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,1,1,1,0,1,2,0,2,1,0
+4,State Colleges,4,State Colleges,EGC,East Georgia State College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,2,1,2,2,2,2,7,6,4,3
+2,Comprehensive Universities,1,Research Universities,UWG,University of West Georgia,UGA,University of Georgia,728,750,761,875,902,923,976,965,1101,1069,996,949,35,39,32,42,37,29,48,47,41,33,36,43
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,BAN,Bainbridge State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,5,4,12,13,8,10,12,14,11,5,9
+2,Comprehensive Universities,3,State Universities,GSC,Georgia Southern University,GCM,Georgia College & State University,550,601,590,596,633,639,702,707,658,775,750,647,12,10,13,18,10,12,12,15,5,18,15,9
+4,State Colleges,2,Comprehensive Universities,MGSC,Middle Georgia State College,UWG,University of West Georgia,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,10,5,9,5,9,19,14,18,14,9,10,2
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,3,3,1,2,0,12,11,2,2,0,0
+2,Comprehensive Universities,3,State Universities,UWG,University of West Georgia,CSU,Columbus State University,550,601,590,596,633,639,702,707,658,775,750,647,14,10,8,10,9,4,11,9,4,12,12,14
+4,State Colleges,1,Research Universities,BAN,Bainbridge State College,GSU,Georgia State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,1,3,3,2,3,3,3,1,3,2,2
+4,State Colleges,3,State Universities,DAR,Darton State College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,96,89,74,79,99,85,102,127,97,114,95,82
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,MAC,Macon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,4,6,7,9,7,6,8,6,5,6,4,0
+4,State Colleges,3,State Universities,DAL,Dalton State College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,0,3,1,3,3,3,1,2,1,4,3
+3,State Universities,1,Research Universities,GAN,Gainesville State College,UGA,University of Georgia,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,174,322,435,417,437,454,569,520,525,445,276,0
+4,State Colleges,2,Comprehensive Universities,MAC,Macon State College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,19,25,18,18,12,20,19,22,15,10,6,0
+4,State Colleges,3,State Universities,EGC,East Georgia State College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,1,2,0,2,0,1,4,4,8,9,12
+1,Research Universities,1,Research Universities,GRU,Georgia Regents University,GSU,Georgia State University,535,591,544,522,566,504,573,509,533,509,457,447,0,2,2,0,2,2,2,1,0,0,0,0
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,MAC,Macon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,2,5,4,1,3,1,3,0,3,1,0
+4,State Colleges,2,Comprehensive Universities,AMC,Atlanta Metropolitan State College,UWG,University of West Georgia,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,10,12,10,10,11,9,11,10,11,14,11,13
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,AMC,Atlanta Metropolitan State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,1,0,0,0,0,0,0,0,0,2,1
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,5,3,7,13,8,17,22,21,34,29,28,29
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,AMC,Atlanta Metropolitan State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,0,1,0,1,0,1,2,0,5,4,1
+4,State Colleges,2,Comprehensive Universities,CCG,College of Coastal Georgia,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,42,26,49,37,54,60,36,51,46,35,37,31
+2,Comprehensive Universities,4,State Colleges,GSC,Georgia Southern University,GHC,Georgia Highlands College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,11,7,12,10,14,16,23,14,24,19,13,14
+1,Research Universities,3,State Universities,GSU,Georgia State University,CSC,Clayton State University,436,407,418,376,360,378,409,384,369,436,388,333,94,91,64,95,70,92,94,81,65,78,85,65
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,GDN,Gordon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,1,0,0,1,0,2,0,0,0,0
+2,Comprehensive Universities,2,Comprehensive Universities,VSU,Valdosta State University,KEN,Kennesaw State University,340,409,380,422,399,428,428,429,531,485,477,496,29,52,44,58,70,67,71,64,99,99,84,90
+4,State Colleges,3,State Universities,ABC,Abraham Baldwin Agricultural College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,10,8,3,8,9,18,7,11,9,13,16,10
+4,State Colleges,4,State Colleges,WAY,Waycross College,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,1,0,2,2,0,1,2,1,1,0
+3,State Universities,1,Research Universities,GCM,Georgia College & State University,UGA,University of Georgia,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,23,30,39,43,67,82,91,77,81,98,90,122
+5,Out-of-System,2,Comprehensive Universities,OUT,Non-USG Institutions,KEN,Kennesaw State University,2960,2899,2968,2996,2751,2836,3178,3315,3438,3366,3238,3344,1697,1657,1678,1640,1475,1555,1770,1834,1801,1741,1706,1713
+4,State Colleges,4,State Colleges,DAL,Dalton State College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,2,1,0,0,1,2,1,0,0
+1,Research Universities,4,State Colleges,UGA,University of Georgia,EGC,East Georgia State College,409,451,427,403,456,524,640,626,671,612,536,604,0,1,1,1,3,0,3,0,0,0,2,2
+4,State Colleges,4,State Colleges,GGC,Georgia Gwinnett College,GDN,Gordon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,3,1
+1,Research Universities,3,State Universities,GIT,Georgia Institute of Technology,AAS,Armstrong Atlantic State University,436,407,418,376,360,378,409,384,369,436,388,333,6,3,2,2,2,1,3,2,1,1,1,2
+2,Comprehensive Universities,4,State Colleges,GSC,Georgia Southern University,DAR,Darton State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,8,11,10,13,12,24,23,19,18,19,20,15
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,6,6,4,2,4,5,3,3,8,5,5,6
+1,Research Universities,2,Comprehensive Universities,GRU,Georgia Regents University,GSC,Georgia Southern University,457,438,425,401,353,377,397,398,369,403,352,335,0,0,0,1,0,0,0,0,0,0,1,0
+4,State Colleges,3,State Universities,SGC,South Georgia College,ALS,Albany State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,5,9,1,3,1,5,5,8,7,0,0
+3,State Universities,4,State Colleges,GCM,Georgia College & State University,GGC,Georgia Gwinnett College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,1,0,5,14,17,16,20,17,11
+3,State Universities,1,Research Universities,GCM,Georgia College & State University,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,5,4,7,3,2,10,18,13,31,20,15,12
+4,State Colleges,3,State Universities,MID,Middle Georgia College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,5,7,6,11,7,12,18,14,24,15,3,0
+3,State Universities,3,State Universities,CSU,Columbus State University,GCM,Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,4,2,6,6,1,4,1,4,1,6,5,1
+3,State Universities,3,State Universities,GAN,Gainesville State College,NGC,North Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,192,183,214,174,200,231,239,250,232,238,85,0
+4,State Colleges,3,State Universities,SGSC,South Georgia State College,ALS,Albany State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,5,9,1,3,1,5,5,8,7,6,15
+4,State Colleges,3,State Universities,DAR,Darton State College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,14,17,7,9,13,18,17,20,28,21,27,36
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,ABC,Abraham Baldwin Agricultural College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,132,154,146,138,111,102,176,156,175,171,176,153
+1,Research Universities,1,Research Universities,UGA,University of Georgia,GSU,Georgia State University,535,591,544,522,566,504,573,509,533,509,457,447,98,103,100,91,90,92,105,78,93,85,74,62
+2,Comprehensive Universities,3,State Universities,KEN,Kennesaw State University,CSU,Columbus State University,550,601,590,596,633,639,702,707,658,775,750,647,8,9,3,8,6,12,13,16,9,12,10,14
+2,Comprehensive Universities,4,State Colleges,VSU,Valdosta State University,GHC,Georgia Highlands College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,2,8,5,9,12,10,11,13,11,12,10,8
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,SGC,South Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,4,10,2,17,6,9,8,3,3,2,0
+2,Comprehensive Universities,3,State Universities,GSC,Georgia Southern University,GSW,Georgia Southwestern State University,550,601,590,596,633,639,702,707,658,775,750,647,11,8,15,6,14,13,12,15,10,11,15,4
+1,Research Universities,4,State Colleges,GSU,Georgia State University,MGSC,Middle Georgia State College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,0,0,0,0,0,0,0,14,18
+4,State Colleges,3,State Universities,BAN,Bainbridge State College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,1,1,3,1,0,0,1
+1,Research Universities,3,State Universities,GIT,Georgia Institute of Technology,ALS,Albany State University,436,407,418,376,360,378,409,384,369,436,388,333,0,0,0,1,0,0,0,0,0,1,0,1
+4,State Colleges,3,State Universities,CCG,College of Coastal Georgia,SPS,Southern Polytechnic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,2,4,0,2,4,6,4,2,3,0,1
+1,Research Universities,1,Research Universities,GRU,Georgia Regents University,GIT,Georgia Institute of Technology,535,591,544,522,566,504,573,509,533,509,457,447,0,1,0,0,0,0,0,0,0,0,0,3
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,BAN,Bainbridge State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,2,0,1,0,0,1,2,1,2,0,1
+3,State Universities,4,State Colleges,NGC,North Georgia College & State University,GGC,Georgia Gwinnett College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,4,1,5,12,18,20,21,5,0
+2,Comprehensive Universities,3,State Universities,KEN,Kennesaw State University,NGC,North Georgia College & State University,550,601,590,596,633,639,702,707,658,775,750,647,14,20,25,27,20,35,17,22,27,26,10,0
+2,Comprehensive Universities,2,Comprehensive Universities,GSC,Georgia Southern University,VSU,Valdosta State University,340,409,380,422,399,428,428,429,531,485,477,496,24,26,25,26,26,18,23,15,20,16,16,8
+4,State Colleges,3,State Universities,GGC,Georgia Gwinnett College,GCM,Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,17,14
+3,State Universities,4,State Colleges,CSU,Columbus State University,GGC,Georgia Gwinnett College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,1,4,9,4,4,4
+2,Comprehensive Universities,3,State Universities,UWG,University of West Georgia,CSC,Clayton State University,550,601,590,596,633,639,702,707,658,775,750,647,42,45,38,37,28,33,33,22,44,37,26,29
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,BAN,Bainbridge State College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,116,146,92,266,199,164,250,280,294,231,213,188
+3,State Universities,3,State Universities,GCM,Georgia College & State University,GSW,Georgia Southwestern State University,691,801,890,788,844,859,880,964,938,1023,728,557,2,3,4,6,8,3,7,3,4,3,6,4
+4,State Colleges,1,Research Universities,SGC,South Georgia College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,0,0,1,0,0,3,2,1,0,0,0
+4,State Colleges,4,State Colleges,DAR,Darton State College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,1,3,2,3,2,4,7,3,8,7
+4,State Colleges,2,Comprehensive Universities,GHC,Georgia Highlands College,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,11,5,2,10,9,13,10,16,13,7,7,16
+4,State Colleges,3,State Universities,GHC,Georgia Highlands College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,4,7,5,8,9,12,6,7,8,10,0,0
+3,State Universities,2,Comprehensive Universities,FVS,Fort Valley State University,GSC,Georgia Southern University,582,576,679,635,613,675,718,750,897,853,685,665,1,3,3,6,5,3,6,12,12,12,9,12
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,1,1,1,0,0,1,3,1,3,5
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,1,0,1,6,1,1
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,SGC,South Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,0,1,1,2,4,4,6,1,0,0
+4,State Colleges,3,State Universities,ABC,Abraham Baldwin Agricultural College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,34,46,32,44,55,55,91,73,66,45,46,39
+3,State Universities,1,Research Universities,GAN,Gainesville State College,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,16,18,13,17,19,16,21,28,18,26,11,0
+4,State Colleges,3,State Universities,GPC,Georgia Perimeter College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,82,74,76,86,110,178,124,110,76,69,29,0
+4,State Colleges,1,Research Universities,CCG,College of Coastal Georgia,GSU,Georgia State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,10,8,4,8,5,5,6,15,12,5,1,13
+4,State Colleges,4,State Colleges,GDN,Gordon State College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,6,4,2,5,3,5,3,5,8,8,5
+4,State Colleges,4,State Colleges,MGSC,Middle Georgia State College,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,15,16,24,23,31,39,36,32,43,25,21,32
+1,Research Universities,3,State Universities,GRU,Georgia Regents University,CSC,Clayton State University,436,407,418,376,360,378,409,384,369,436,388,333,0,2,1,1,0,1,0,0,0,0,1,2
+1,Research Universities,4,State Colleges,GIT,Georgia Institute of Technology,CCG,College of Coastal Georgia,409,451,427,403,456,524,640,626,671,612,536,604,0,1,2,0,2,1,0,0,0,0,1,2
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,EGC,East Georgia State College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,34,69,73,105,117,146,141,139,66,14,179,171
+4,State Colleges,2,Comprehensive Universities,GHC,Georgia Highlands College,UWG,University of West Georgia,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,125,151,148,147,199,172,174,115,123,107,125,121
+3,State Universities,4,State Colleges,ALS,Albany State University,AMC,Atlanta Metropolitan State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,4,2,3,12,5,6,4,10,7,18,12,16
+1,Research Universities,3,State Universities,AUG,Augusta State University,SSU,Savannah State University,436,407,418,376,360,378,409,384,369,436,388,333,1,2,0,4,1,1,3,2,2,0,0,0
+2,Comprehensive Universities,3,State Universities,UWG,University of West Georgia,GSW,Georgia Southwestern State University,550,601,590,596,633,639,702,707,658,775,750,647,2,5,2,4,1,3,1,3,3,2,3,1
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,18,17,23,12,16,17,16,19,19,31,24,28
+4,State Colleges,4,State Colleges,MAC,Macon State College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,1,1,6,2,4,3,0
+4,State Colleges,4,State Colleges,GGC,Georgia Gwinnett College,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,5,3
+3,State Universities,4,State Colleges,ALS,Albany State University,MGSC,Middle Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,6,3
+4,State Colleges,3,State Universities,GDN,Gordon State College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,10,6,11,6,12,23,8,10,11,4,3,0
+4,State Colleges,1,Research Universities,GDN,Gordon State College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,8,7,9,7,3,7,5,3,1,3,2,2
+3,State Universities,1,Research Universities,GAN,Gainesville State College,GRU,Georgia Regents University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,9,12,14,14,21,13,16,11,14,3,0,0
+3,State Universities,2,Comprehensive Universities,UNGA,University of North Georgia,GSC,Georgia Southern University,582,576,679,635,613,675,718,750,897,853,685,665,3,10,4,5,8,5,8,8,10,8,11,35
+3,State Universities,4,State Colleges,NGC,North Georgia College & State University,DAL,Dalton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,4,8,2,6,6,4,13,6,9,8,6,0
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,EGC,East Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,3,3,5,6,10,7,12,14,7,1,8,8
+4,State Colleges,4,State Colleges,EGC,East Georgia State College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,1,3,1,4,3,6,5,8
+3,State Universities,3,State Universities,GSW,Georgia Southwestern State University,UNGA,University of North Georgia,691,801,890,788,844,859,880,964,938,1023,728,557,0,0,0,0,0,0,0,0,0,0,3,4
+1,Research Universities,3,State Universities,GSU,Georgia State University,NGC,North Georgia College & State University,436,407,418,376,360,378,409,384,369,436,388,333,14,11,14,9,13,17,16,19,16,11,13,0
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,0,7,4,5,2,3,10,3,10,7
+3,State Universities,3,State Universities,GCM,Georgia College & State University,UNGA,University of North Georgia,691,801,890,788,844,859,880,964,938,1023,728,557,0,0,0,0,0,0,0,0,0,0,33,29
+1,Research Universities,1,Research Universities,GRU,Georgia Regents University,UGA,University of Georgia,535,591,544,522,566,504,573,509,533,509,457,447,0,1,1,0,1,0,2,0,0,0,0,0
+1,Research Universities,4,State Colleges,GSU,Georgia State University,GGC,Georgia Gwinnett College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,12,6,25,33,60,54,75,72,75
+3,State Universities,3,State Universities,UNGA,University of North Georgia,GSW,Georgia Southwestern State University,691,801,890,788,844,859,880,964,938,1023,728,557,2,0,1,1,0,3,3,1,5,5,3,8
+2,Comprehensive Universities,4,State Colleges,UWG,University of West Georgia,ABC,Abraham Baldwin Agricultural College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,2,1,0,1,3,1,0,3,3,2,0,5
+3,State Universities,3,State Universities,SPS,Southern Polytechnic State University,CSC,Clayton State University,691,801,890,788,844,859,880,964,938,1023,728,557,4,8,9,4,6,6,5,6,2,4,5,5
+2,Comprehensive Universities,4,State Colleges,UWG,University of West Georgia,AMC,Atlanta Metropolitan State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,12,15,6,9,9,4,5,10,9,16,27,16
+3,State Universities,4,State Colleges,CSU,Columbus State University,SGC,South Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,1,0,1,1,0,1,1,5,2,1,0
+1,Research Universities,1,Research Universities,AUG,Augusta State University,GIT,Georgia Institute of Technology,535,591,544,522,566,504,573,509,533,509,457,447,6,8,3,6,6,4,3,9,11,8,1,0
+3,State Universities,1,Research Universities,UNGA,University of North Georgia,GSU,Georgia State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,20,16,23,16,18,15,21,16,20,25,25,75
+3,State Universities,1,Research Universities,CSC,Clayton State University,GSU,Georgia State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,74,58,68,64,73,86,71,61,70,74,67,51
+4,State Colleges,4,State Colleges,DAR,Darton State College,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,11,10,12,16,12,16,17,24,31,23,21,20
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,MAC,Macon State College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,441,497,564,563,512,520,576,542,488,564,280,0
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,1,0,3,8,6,13,7,7
+1,Research Universities,2,Comprehensive Universities,UGA,University of Georgia,GSC,Georgia Southern University,457,438,425,401,353,377,397,398,369,403,352,335,14,20,23,18,14,14,19,16,28,20,28,18
+2,Comprehensive Universities,1,Research Universities,KEN,Kennesaw State University,AUG,Augusta State University,728,750,761,875,902,923,976,965,1101,1069,996,949,3,1,6,9,6,5,10,8,9,14,2,0
+3,State Universities,4,State Colleges,SSU,Savannah State University,GPC,Georgia Perimeter College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,15,25,23,17,27,23,30,33,40,55,36,43
+4,State Colleges,3,State Universities,MAC,Macon State College,SPS,Southern Polytechnic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,2,5,6,5,7,9,3,7,5,2,0
+1,Research Universities,3,State Universities,GRU,Georgia Regents University,GSW,Georgia Southwestern State University,436,407,418,376,360,378,409,384,369,436,388,333,1,0,1,0,0,2,1,0,0,0,0,1
+1,Research Universities,3,State Universities,UGA,University of Georgia,GCM,Georgia College & State University,436,407,418,376,360,378,409,384,369,436,388,333,13,19,12,9,10,8,6,20,10,4,10,8
+1,Research Universities,4,State Colleges,GIT,Georgia Institute of Technology,BAN,Bainbridge State College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,0,0,0,0,0,1,0,1,0
+4,State Colleges,3,State Universities,GGC,Georgia Gwinnett College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,8,5
+1,Research Universities,4,State Colleges,AUG,Augusta State University,ABC,Abraham Baldwin Agricultural College,409,451,427,403,456,524,640,626,671,612,536,604,2,1,2,0,0,0,0,1,0,1,0,0
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,2,6,6,5
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,MGSC,Middle Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,3,10
+4,State Colleges,3,State Universities,GHC,Georgia Highlands College,AAS,Armstrong Atlantic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,4,5,3,5,3,3,5,8,5,5,6,8
+3,State Universities,2,Comprehensive Universities,ALS,Albany State University,VSU,Valdosta State University,582,576,679,635,613,675,718,750,897,853,685,665,3,6,8,7,11,10,7,6,9,1,4,5
+4,State Colleges,1,Research Universities,WAY,Waycross College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,1,2,1,3,2,1,1,1,1,0,0
+4,State Colleges,4,State Colleges,EGC,East Georgia State College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,19,20,19,16,11,9,11,19,13,28,5,0
+3,State Universities,2,Comprehensive Universities,GSW,Georgia Southwestern State University,GSC,Georgia Southern University,582,576,679,635,613,675,718,750,897,853,685,665,9,8,6,9,8,8,5,4,4,10,10,8
+3,State Universities,4,State Colleges,CSU,Columbus State University,SGSC,South Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,1,0
+4,State Colleges,3,State Universities,DAR,Darton State College,AAS,Armstrong Atlantic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,7,10,12,4,7,14,16,12,7,13,14,12
+4,State Colleges,1,Research Universities,GDN,Gordon State College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,7,7,5,5,4,9,10,8,9,8,3,2
+2,Comprehensive Universities,3,State Universities,GSC,Georgia Southern University,CSU,Columbus State University,550,601,590,596,633,639,702,707,658,775,750,647,14,13,18,15,26,21,12,20,10,22,15,15
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,GGC,Georgia Gwinnett College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,1,1,0,4,8,7,2,5
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,MGSC,Middle Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,9,10
+4,State Colleges,4,State Colleges,SGC,South Georgia College,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,6,11,5,9,6,10,11,14,15,23,8,0
+4,State Colleges,4,State Colleges,MID,Middle Georgia College,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,15,16,24,23,31,39,36,32,43,25,10,0
+3,State Universities,4,State Colleges,GAN,Gainesville State College,BAN,Bainbridge State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,2,0,1,3,1,0,0,0
+4,State Colleges,3,State Universities,MGSC,Middle Georgia State College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,3,2,3,6,1,8,3,5,2,1,2,2
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,1,1,4,2,1,4,2,1,3,0
+3,State Universities,3,State Universities,GSW,Georgia Southwestern State University,SSU,Savannah State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,0,0,0,0,1,0,0,0,0,1,2
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,1,0,1,1,2
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,DAL,Dalton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,2,1,0,1,0,0,0,0,1,2,0
+4,State Colleges,3,State Universities,EGC,East Georgia State College,UNGA,University of North Georgia,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,10,12
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,GHC,Georgia Highlands College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,1,0,3,4,3,3
+1,Research Universities,4,State Colleges,GIT,Georgia Institute of Technology,GHC,Georgia Highlands College,409,451,427,403,456,524,640,626,671,612,536,604,1,3,0,3,4,3,4,1,4,2,7,0
+3,State Universities,4,State Colleges,GAN,Gainesville State College,AMC,Atlanta Metropolitan State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,1,2,1,0
+3,State Universities,2,Comprehensive Universities,SPS,Southern Polytechnic State University,VSU,Valdosta State University,582,576,679,635,613,675,718,750,897,853,685,665,2,2,0,2,1,1,2,1,1,1,1,2
+3,State Universities,4,State Colleges,CSU,Columbus State University,MGSC,Middle Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,8,4
+1,Research Universities,4,State Colleges,GIT,Georgia Institute of Technology,GPC,Georgia Perimeter College,409,451,427,403,456,524,640,626,671,612,536,604,46,64,70,45,38,67,70,43,43,38,30,40
+3,State Universities,2,Comprehensive Universities,GAN,Gainesville State College,GSC,Georgia Southern University,582,576,679,635,613,675,718,750,897,853,685,665,14,25,23,20,33,33,31,48,58,45,11,0
+1,Research Universities,4,State Colleges,GRU,Georgia Regents University,MID,Middle Georgia College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,1,1,0,0,0,0,0,0,0,0
+4,State Colleges,1,Research Universities,SGSC,South Georgia State College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,3,4,1,8,0,9,2,4,4,5,0,0
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,1,0,0,1,0,0
+4,State Colleges,3,State Universities,GGC,Georgia Gwinnett College,SPS,Southern Polytechnic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,20,37
+4,State Colleges,4,State Colleges,SGC,South Georgia College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,7,2,3,6,4,7,5,8,3,7,6,0
+4,State Colleges,4,State Colleges,GGC,Georgia Gwinnett College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,20,21
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,21,24,16,25,27,21,18,15,11,12,7,0
+4,State Colleges,3,State Universities,WAY,Waycross College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,6,8,11,14,12,15,9,8,2,0
+4,State Colleges,3,State Universities,AMC,Atlanta Metropolitan State College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,1,1,2,4,1,2,4,2,5,2,5
+3,State Universities,3,State Universities,CSC,Clayton State University,GSW,Georgia Southwestern State University,691,801,890,788,844,859,880,964,938,1023,728,557,2,3,3,2,1,2,2,3,0,3,5,2
+4,State Colleges,4,State Colleges,WAY,Waycross College,SGC,South Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,25,29,37,21,41,45,38,48,26,41,12,0
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,2,1,1,1,1,2,1,0,1,1,0
+4,State Colleges,2,Comprehensive Universities,MGSC,Middle Georgia State College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,19,20,42,50,32,27,29,18,23,18,17,9
+4,State Colleges,3,State Universities,GDN,Gordon State College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,66,85,114,75,76,67,71,56,114,90,70,68
+4,State Colleges,4,State Colleges,GPC,Georgia Perimeter College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,5,4,9,9,2,8,14,13,8,9,4,0
+1,Research Universities,3,State Universities,GIT,Georgia Institute of Technology,SSU,Savannah State University,436,407,418,376,360,378,409,384,369,436,388,333,0,0,0,0,0,0,0,1,0,0,1,0
+3,State Universities,4,State Colleges,CSU,Columbus State University,MAC,Macon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,5,6,5,9,10,9,5,16,4,5,2,0
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,SGSC,South Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,7,13
+3,State Universities,2,Comprehensive Universities,SSU,Savannah State University,GSC,Georgia Southern University,582,576,679,635,613,675,718,750,897,853,685,665,18,18,18,21,15,15,33,35,29,36,34,41
+3,State Universities,4,State Colleges,SSU,Savannah State University,GGC,Georgia Gwinnett College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,2,4,9,4,10
+4,State Colleges,2,Comprehensive Universities,GGC,Georgia Gwinnett College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,0,0,0,0,0,0,0,0,0,0,9,2
+3,State Universities,3,State Universities,FVS,Fort Valley State University,ALS,Albany State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,3,2,10,8,8,7,7,4,1,7,5
+3,State Universities,3,State Universities,SSU,Savannah State University,NGC,North Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,0,0,0,0,0,0,1,0,0,1,0,0
+3,State Universities,1,Research Universities,NGC,North Georgia College & State University,GSU,Georgia State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,20,16,23,16,18,15,21,16,20,25,11,0
+3,State Universities,3,State Universities,GCM,Georgia College & State University,AAS,Armstrong Atlantic State University,691,801,890,788,844,859,880,964,938,1023,728,557,8,11,6,8,8,5,8,13,13,9,8,11
+4,State Colleges,2,Comprehensive Universities,GDN,Gordon State College,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,22,32,40,22,49,33,33,37,35,57,46,42
+3,State Universities,4,State Colleges,AAS,Armstrong Atlantic State University,DAR,Darton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,2,2,2,6,7,7,3,2,5,7,5
+3,State Universities,4,State Colleges,SSU,Savannah State University,MAC,Macon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,8,9,10,13,11,6,14,5,4,8,3,0
+3,State Universities,3,State Universities,NGC,North Georgia College & State University,GCM,Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,6,4,7,4,6,3,1,4,8,7,0,0
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,MGSC,Middle Georgia State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,0,0,0,0,0,0,0,0,0,0,17,11
+5,Out-of-System,3,State Universities,OUT,Non-USG Institutions,SSU,Savannah State University,4305,4039,3801,3876,3737,3833,4303,4471,4281,4406,4076,4007,148,135,151,132,118,158,167,170,183,206,139,173
+4,State Colleges,1,Research Universities,SGC,South Georgia College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,3,4,1,8,0,9,2,4,4,5,0,0
+4,State Colleges,1,Research Universities,EGC,East Georgia State College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,6,4,4,1,1,1,1,0,2,2,10,29
+4,State Colleges,2,Comprehensive Universities,GHC,Georgia Highlands College,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,123,106,141,181,187,248,270,314,321,343,335,292
+1,Research Universities,4,State Colleges,AUG,Augusta State University,MAC,Macon State College,409,451,427,403,456,524,640,626,671,612,536,604,5,3,3,3,5,3,6,5,4,5,1,0
+3,State Universities,2,Comprehensive Universities,GAN,Gainesville State College,VSU,Valdosta State University,582,576,679,635,613,675,718,750,897,853,685,665,10,6,6,4,10,16,13,18,18,7,6,0
+3,State Universities,4,State Colleges,SPS,Southern Polytechnic State University,MID,Middle Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,2,2,0,1,0,2,2,1,3,4,0
+4,State Colleges,4,State Colleges,GDN,Gordon State College,SGSC,South Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,0,1
+1,Research Universities,4,State Colleges,GSU,Georgia State University,SGC,South Georgia College,409,451,427,403,456,524,640,626,671,612,536,604,1,0,1,0,0,0,0,1,1,2,1,0
+4,State Colleges,3,State Universities,GDN,Gordon State College,GCM,Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,29,45,25,27,17,23,18,26,15,5,19,14
+4,State Colleges,4,State Colleges,GGC,Georgia Gwinnett College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,6,4
+4,State Colleges,3,State Universities,GHC,Georgia Highlands College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,1,1,0,0,0,0,1,1,1,2
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,WAY,Waycross College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,39,37,28,33,34,28,51,69,17,8,8,0
+3,State Universities,4,State Colleges,GAN,Gainesville State College,MAC,Macon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,3,5,7,5,6,5,3,10,7,1,0
+4,State Colleges,2,Comprehensive Universities,BAN,Bainbridge State College,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,2,1,2,4,2,0,1,4,1,1,1,3
+4,State Colleges,4,State Colleges,SGC,South Georgia College,EGC,East Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,6,2,1,5,11,5,11,2,0,5,0
+3,State Universities,1,Research Universities,SSU,Savannah State University,GRU,Georgia Regents University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,1,0,1,0,0,1,0,0,0,0,3,0
+3,State Universities,3,State Universities,SPS,Southern Polytechnic State University,AAS,Armstrong Atlantic State University,691,801,890,788,844,859,880,964,938,1023,728,557,2,2,2,1,3,1,0,0,2,2,3,1
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,GDN,Gordon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,0,3,0,4,2,5,9,12,8,8,6
+4,State Colleges,4,State Colleges,SGC,South Georgia College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,2,0,2,1,4,0,3,0,4,0,0
+4,State Colleges,4,State Colleges,MAC,Macon State College,DAL,Dalton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,4,0,0,2,0,0,1,1,0,0
+3,State Universities,2,Comprehensive Universities,GSW,Georgia Southwestern State University,KEN,Kennesaw State University,582,576,679,635,613,675,718,750,897,853,685,665,3,10,9,10,8,13,11,23,12,19,7,11
+2,Comprehensive Universities,2,Comprehensive Universities,VSU,Valdosta State University,UWG,University of West Georgia,340,409,380,422,399,428,428,429,531,485,477,496,19,13,13,13,14,19,16,21,18,22,20,19
+4,State Colleges,3,State Universities,BAN,Bainbridge State College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,5,4,2,1,2,4,5,4,2,6,5
+4,State Colleges,3,State Universities,MID,Middle Georgia College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,9,7,10,2,5,12,19,14,14,10,3,0
+4,State Colleges,3,State Universities,EGC,East Georgia State College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,5,0,3,0,1,3,3,5,2,3,3
+3,State Universities,3,State Universities,UNGA,University of North Georgia,GCM,Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,6,4,7,4,6,3,1,4,8,7,9,17
+1,Research Universities,3,State Universities,AUG,Augusta State University,GSW,Georgia Southwestern State University,436,407,418,376,360,378,409,384,369,436,388,333,3,0,0,1,0,3,1,1,5,0,2,0
+4,State Colleges,3,State Universities,MGSC,Middle Georgia State College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,3,1,3,0,2,7,3,2,12,1,0
+3,State Universities,4,State Colleges,NGC,North Georgia College & State University,BAN,Bainbridge State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,0,0,0,0,0,0,0,1,0,0,0
+1,Research Universities,2,Comprehensive Universities,GRU,Georgia Regents University,VSU,Valdosta State University,457,438,425,401,353,377,397,398,369,403,352,335,0,0,0,0,0,0,0,1,0,0,0,0
+5,Out-of-System,2,Comprehensive Universities,OUT,Non-USG Institutions,VSU,Valdosta State University,2960,2899,2968,2996,2751,2836,3178,3315,3438,3366,3238,3344,509,489,505,507,430,423,488,540,558,604,580,593
+4,State Colleges,1,Research Universities,SGC,South Georgia College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,2,0,1,0,0,0,0,1,0,0,0
+4,State Colleges,4,State Colleges,CCG,College of Coastal Georgia,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,3,5,2,3,2,2,2,4,1,6,5
+2,Comprehensive Universities,4,State Colleges,VSU,Valdosta State University,GDN,Gordon State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,13,6,8,5,9,16,13,15,17,11,11,10
+4,State Colleges,3,State Universities,SGSC,South Georgia State College,SPS,Southern Polytechnic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,2,3,2,3,1,0,2,1,1,2
+1,Research Universities,1,Research Universities,GSU,Georgia State University,GIT,Georgia Institute of Technology,535,591,544,522,566,504,573,509,533,509,457,447,68,75,40,52,55,44,58,77,94,79,92,95
+1,Research Universities,4,State Colleges,UGA,University of Georgia,GGC,Georgia Gwinnett College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,7,3,11,24,33,34,28,22,33
+4,State Colleges,4,State Colleges,DAL,Dalton State College,AMC,Atlanta Metropolitan State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,0,0,0,1,0,0,0,1,2,0
+3,State Universities,3,State Universities,UNGA,University of North Georgia,GAN,Gainesville State College,691,801,890,788,844,859,880,964,938,1023,728,557,29,39,33,44,50,44,33,69,58,65,24,0
+2,Comprehensive Universities,4,State Colleges,UWG,University of West Georgia,SGC,South Georgia College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,1,0,0,2,0,0,0,1,2,0,0,0
+5,Out-of-System,3,State Universities,OUT,Non-USG Institutions,UNGA,University of North Georgia,4305,4039,3801,3876,3737,3833,4303,4471,4281,4406,4076,4007,0,0,0,0,0,0,0,0,0,0,468,790
+1,Research Universities,2,Comprehensive Universities,GIT,Georgia Institute of Technology,GSC,Georgia Southern University,457,438,425,401,353,377,397,398,369,403,352,335,8,7,2,4,6,4,4,6,5,4,2,1
+1,Research Universities,2,Comprehensive Universities,AUG,Augusta State University,UWG,University of West Georgia,457,438,425,401,353,377,397,398,369,403,352,335,2,2,5,3,4,1,3,3,8,5,1,0
+3,State Universities,4,State Colleges,SSU,Savannah State University,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,0,0,0,0,0,1,1,0,0,0,1
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,DAR,Darton State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,12,8,9,1,7,4,9,13,9,9,5,3
+3,State Universities,2,Comprehensive Universities,SSU,Savannah State University,KEN,Kennesaw State University,582,576,679,635,613,675,718,750,897,853,685,665,5,5,7,10,5,5,13,14,5,17,20,26
+3,State Universities,4,State Colleges,UNGA,University of North Georgia,SGSC,South Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,2,0
+2,Comprehensive Universities,1,Research Universities,KEN,Kennesaw State University,GIT,Georgia Institute of Technology,728,750,761,875,902,923,976,965,1101,1069,996,949,21,38,29,28,25,23,31,42,52,31,31,32
+4,State Colleges,2,Comprehensive Universities,ABC,Abraham Baldwin Agricultural College,UWG,University of West Georgia,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,8,9,7,8,5,10,10,8,6,8,6,4
+2,Comprehensive Universities,3,State Universities,UWG,University of West Georgia,UNGA,University of North Georgia,550,601,590,596,633,639,702,707,658,775,750,647,0,0,0,0,0,0,0,0,0,0,29,34
+3,State Universities,1,Research Universities,AAS,Armstrong Atlantic State University,AUG,Augusta State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,4,7,14,15,4,11,9,26,11,17,6,0
+3,State Universities,3,State Universities,ALS,Albany State University,CSU,Columbus State University,691,801,890,788,844,859,880,964,938,1023,728,557,11,20,14,12,8,10,10,9,10,11,7,9
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,SGSC,South Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,2,0
+1,Research Universities,4,State Colleges,UGA,University of Georgia,DAL,Dalton State College,409,451,427,403,456,524,640,626,671,612,536,604,3,5,2,6,4,8,5,2,7,9,4,7
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,58,60,36,49,47,66,64,71,96,103,58,51
+4,State Colleges,1,Research Universities,DAL,Dalton State College,GSU,Georgia State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,7,4,4,11,11,12,12,13,24,23,17,11
+1,Research Universities,1,Research Universities,GIT,Georgia Institute of Technology,AUG,Augusta State University,535,591,544,522,566,504,573,509,533,509,457,447,9,7,11,10,4,4,5,5,5,4,1,0
+3,State Universities,1,Research Universities,CSU,Columbus State University,AUG,Augusta State University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,1,3,5,1,3,1,6,6,2,6,0,0
+1,Research Universities,3,State Universities,GSU,Georgia State University,SPS,Southern Polytechnic State University,436,407,418,376,360,378,409,384,369,436,388,333,12,23,28,15,17,14,23,18,15,27,31,32
+4,State Colleges,4,State Colleges,GDN,Gordon State College,WAY,Waycross College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,1,0,2,0,1,1,2,0,0,0
+4,State Colleges,1,Research Universities,MID,Middle Georgia College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,7,5,7,10,11,11,9,9,6,2,0,0
+3,State Universities,4,State Colleges,GAN,Gainesville State College,CCG,College of Coastal Georgia,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,1,2,4,1,3,3,6,7,2,3,0
+3,State Universities,2,Comprehensive Universities,AAS,Armstrong Atlantic State University,VSU,Valdosta State University,582,576,679,635,613,675,718,750,897,853,685,665,10,5,3,6,6,2,8,5,7,8,8,5
+4,State Colleges,4,State Colleges,DAR,Darton State College,GDN,Gordon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,2,1,2,1,3,1,3,4,10,5,5
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,GGC,Georgia Gwinnett College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,0,0,0,1,4,16,26,28,48,35,63,45
+4,State Colleges,2,Comprehensive Universities,GPC,Georgia Perimeter College,VSU,Valdosta State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,27,21,20,18,21,20,21,30,24,12,20,20
+4,State Colleges,3,State Universities,SGC,South Georgia College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,5,9,8,5,14,43,58,54,64,33,0
+4,State Colleges,4,State Colleges,DAL,Dalton State College,GPC,Georgia Perimeter College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,6,5,2,6,4,8,3,11,10,7,11
+4,State Colleges,3,State Universities,DAR,Darton State College,FVS,Fort Valley State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,2,3,0,2,1,1,6,4,4,3,7,4
+3,State Universities,4,State Colleges,SPS,Southern Polytechnic State University,GPC,Georgia Perimeter College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,22,23,15,14,18,18,16,20,20,30,22,29
+4,State Colleges,1,Research Universities,ABC,Abraham Baldwin Agricultural College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,4,4,1,2,0,1,2,1,0,0,2,1
+4,State Colleges,1,Research Universities,AMC,Atlanta Metropolitan State College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,1,0,1,2,0,2,3,3,2,2,0,2
+4,State Colleges,4,State Colleges,MID,Middle Georgia College,SGC,South Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,4,9,13,12,8,6,10,8,9,3,0
+3,State Universities,1,Research Universities,AAS,Armstrong Atlantic State University,GRU,Georgia Regents University,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,2,2,0,3,2,1,2,0,2,3,14,9
+1,Research Universities,1,Research Universities,GIT,Georgia Institute of Technology,GRU,Georgia Regents University,535,591,544,522,566,504,573,509,533,509,457,447,0,2,1,0,0,0,0,0,0,0,1,0
+3,State Universities,3,State Universities,CSC,Clayton State University,GAN,Gainesville State College,691,801,890,788,844,859,880,964,938,1023,728,557,7,4,4,5,8,6,4,3,2,4,2,0
+4,State Colleges,1,Research Universities,GPC,Georgia Perimeter College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,333,355,423,284,285,278,277,202,201,200,197,190
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,DAR,Darton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,0,1,4,2,2,0,3,3,5,3
+3,State Universities,2,Comprehensive Universities,GAN,Gainesville State College,KEN,Kennesaw State University,582,576,679,635,613,675,718,750,897,853,685,665,28,42,59,63,69,85,100,111,133,98,32,0
+4,State Colleges,3,State Universities,GGC,Georgia Gwinnett College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,2,3
+1,Research Universities,3,State Universities,GSU,Georgia State University,CSU,Columbus State University,436,407,418,376,360,378,409,384,369,436,388,333,14,12,15,11,16,14,14,17,10,11,14,10
+2,Comprehensive Universities,4,State Colleges,UWG,University of West Georgia,MID,Middle Georgia College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,3,0,3,0,3,4,0,2,3,2,5,0
+3,State Universities,3,State Universities,SSU,Savannah State University,GSW,Georgia Southwestern State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,3,3,3,0,2,0,0,0,0,2,5
+3,State Universities,2,Comprehensive Universities,CSU,Columbus State University,KEN,Kennesaw State University,582,576,679,635,613,675,718,750,897,853,685,665,22,20,32,29,19,23,31,21,33,34,23,32
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,7,2,3,6,4,7,5,8,3,7,6,0
+4,State Colleges,4,State Colleges,SGC,South Georgia College,GGC,Georgia Gwinnett College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,2,6,2,0
+3,State Universities,3,State Universities,AAS,Armstrong Atlantic State University,SSU,Savannah State University,691,801,890,788,844,859,880,964,938,1023,728,557,13,16,8,17,14,16,23,24,20,23,21,14
+3,State Universities,4,State Colleges,NGC,North Georgia College & State University,MID,Middle Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,1,0,1,2,1,1,3,2,0,0
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,MGSC,Middle Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,0,0,0,0,0,0,0,0,9,17
+3,State Universities,3,State Universities,CSU,Columbus State University,GAN,Gainesville State College,691,801,890,788,844,859,880,964,938,1023,728,557,10,6,5,7,7,5,11,8,10,7,1,0
+4,State Colleges,3,State Universities,WAY,Waycross College,SSU,Savannah State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,10,8,6,2,1,0,1,3,0,0
+4,State Colleges,3,State Universities,MGSC,Middle Georgia State College,AAS,Armstrong Atlantic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,10,21,15,13,24,9,23,17,19,15,16,4
+1,Research Universities,4,State Colleges,GIT,Georgia Institute of Technology,WAY,Waycross College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,1,0,0,0,0,0,0,0,0
+4,State Colleges,3,State Universities,CCG,College of Coastal Georgia,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,0,0,1,2,2,1,3,6,4,4,3
+2,Comprehensive Universities,4,State Colleges,VSU,Valdosta State University,ABC,Abraham Baldwin Agricultural College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,40,38,36,23,22,28,23,22,35,29,29,29
+4,State Colleges,4,State Colleges,MGSC,Middle Georgia State College,DAL,Dalton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,1,0,1,3,2,1,2,2,1,2
+4,State Colleges,3,State Universities,ABC,Abraham Baldwin Agricultural College,SPS,Southern Polytechnic State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,4,2,1,3,5,6,2,1,1,4,2,2
+3,State Universities,3,State Universities,ALS,Albany State University,AAS,Armstrong Atlantic State University,691,801,890,788,844,859,880,964,938,1023,728,557,2,5,4,1,2,4,3,1,0,4,2,1
+3,State Universities,3,State Universities,CSC,Clayton State University,NGC,North Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,5,4,5,6,1,3,2,1,0,3,1,0
+5,Out-of-System,3,State Universities,OUT,Non-USG Institutions,GAN,Gainesville State College,4305,4039,3801,3876,3737,3833,4303,4471,4281,4406,4076,4007,784,510,518,513,549,613,614,668,621,643,270,0
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,ABC,Abraham Baldwin Agricultural College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,7,7,10,5,5,4,6,7,6,2,5,7
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,9,7,8,6,3,6,5,11,8,8,5
+3,State Universities,4,State Colleges,CSC,Clayton State University,GPC,Georgia Perimeter College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,60,79,62,73,98,109,126,123,124,97,64,62
+4,State Colleges,3,State Universities,MAC,Macon State College,GSW,Georgia Southwestern State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,9,14,11,9,12,10,16,14,10,20,13,0
+3,State Universities,3,State Universities,AAS,Armstrong Atlantic State University,FVS,Fort Valley State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,0,0,1,0,1,1,0,0,2,0,1
+1,Research Universities,4,State Colleges,GSU,Georgia State University,BAN,Bainbridge State College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,1,1,0,2,1,1,0,1,1
+3,State Universities,4,State Colleges,GSW,Georgia Southwestern State University,GDN,Gordon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,5,2,0,3,2,1,0,1,6,1,3,0
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,BAN,Bainbridge State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,0,0,1,1,5,3,8,3,1,2
+4,State Colleges,3,State Universities,WAY,Waycross College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,0,2,2,1,2,3,0,0,1,0,0
+4,State Colleges,1,Research Universities,EGC,East Georgia State College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,5,10,3,7,10,19,5,11,9,8,5,6
+3,State Universities,4,State Colleges,CSC,Clayton State University,MAC,Macon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,6,4,9,5,5,16,11,8,11,4,6,0
+4,State Colleges,4,State Colleges,BAN,Bainbridge State College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,1,2,1,0,0
+5,Out-of-System,4,State Colleges,OUT,Non-USG Institutions,MID,Middle Georgia College,4945,5397,5258,5420,6058,6228,7642,7955,8421,7660,6700,7022,120,124,103,116,139,149,180,173,199,166,75,0
+4,State Colleges,3,State Universities,AMC,Atlanta Metropolitan State College,UNGA,University of North Georgia,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,0,3
+4,State Colleges,1,Research Universities,WAY,Waycross College,GRU,Georgia Regents University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,2,1,2,0,1,0,0,0,0,1,0,0
+3,State Universities,3,State Universities,SSU,Savannah State University,AAS,Armstrong Atlantic State University,691,801,890,788,844,859,880,964,938,1023,728,557,24,34,36,25,33,30,30,36,33,27,28,50
+4,State Colleges,1,Research Universities,MAC,Macon State College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,8,15,10,12,11,7,14,14,13,7,8,0
+3,State Universities,3,State Universities,GCM,Georgia College & State University,SSU,Savannah State University,691,801,890,788,844,859,880,964,938,1023,728,557,1,0,0,1,0,1,0,0,0,1,1,0
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,MAC,Macon State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,1,1,3,3,2,0,3,1,1,0,0
+3,State Universities,4,State Colleges,ALS,Albany State University,MID,Middle Georgia College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,3,3,1,6,0,2,1,6,1,5,1,0
+4,State Colleges,4,State Colleges,DAR,Darton State College,BAN,Bainbridge State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,8,10,7,15,16,19,15,29,53,31,34,28
+4,State Colleges,4,State Colleges,WAY,Waycross College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,6,8,11,11,10,9,16,15,25,17,8,0
+4,State Colleges,1,Research Universities,MGSC,Middle Georgia State College,GIT,Georgia Institute of Technology,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,5,5,3,10,3,8,8,8,11,5,3,14
+3,State Universities,4,State Colleges,SSU,Savannah State University,WAY,Waycross College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,0,3,0,1,0,2,2,0,1,0,0
+4,State Colleges,4,State Colleges,GGC,Georgia Gwinnett College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,0,0,0,0,0,0,0,0,0,1,0
+3,State Universities,3,State Universities,GAN,Gainesville State College,GCM,Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,10,14,23,16,21,16,28,28,16,14,7,0
+3,State Universities,1,Research Universities,ALS,Albany State University,GIT,Georgia Institute of Technology,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,1,1,5,3,2,1,3,0,1,2,0,2
+3,State Universities,4,State Colleges,FVS,Fort Valley State University,AMC,Atlanta Metropolitan State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,7,10,6,12,11,6,8,20,19,24,25,24
+4,State Colleges,3,State Universities,GHC,Georgia Highlands College,CSU,Columbus State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,1,6,2,3,1,4,1,6,1,5,4,8
+2,Comprehensive Universities,4,State Colleges,KEN,Kennesaw State University,MAC,Macon State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,6,4,5,5,7,5,10,11,7,14,0,0
+3,State Universities,4,State Colleges,CSC,Clayton State University,EGC,East Georgia State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,2,1,0,1,1,1,3,2,0,0,0,0
+3,State Universities,3,State Universities,CSU,Columbus State University,FVS,Fort Valley State University,691,801,890,788,844,859,880,964,938,1023,728,557,0,3,3,3,5,2,3,6,1,1,0,2
+1,Research Universities,4,State Colleges,UGA,University of Georgia,MGSC,Middle Georgia State College,409,451,427,403,456,524,640,626,671,612,536,604,0,0,0,0,0,0,0,0,0,0,5,15
+4,State Colleges,4,State Colleges,ABC,Abraham Baldwin Agricultural College,CCG,College of Coastal Georgia,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,1,3,4,9,8,7,5,5,2,6
+4,State Colleges,4,State Colleges,GDN,Gordon State College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,3,6,2,2,2,6,2,12,10,13,6,1
+4,State Colleges,3,State Universities,EGC,East Georgia State College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,3,2,1,1,0,0,1,2,2,4,9,6
+1,Research Universities,1,Research Universities,GIT,Georgia Institute of Technology,GSU,Georgia State University,535,591,544,522,566,504,573,509,533,509,457,447,38,19,38,26,29,26,25,30,18,16,14,14
+3,State Universities,4,State Colleges,NGC,North Georgia College & State University,GHC,Georgia Highlands College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,3,4,5,0,3,9,7,8,3,8,6,0
+4,State Colleges,4,State Colleges,AMC,Atlanta Metropolitan State College,BAN,Bainbridge State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,0,1,0,0,0,1,1,1,1,1,0,0
+3,State Universities,1,Research Universities,CSU,Columbus State University,UGA,University of Georgia,797,1005,1253,1175,1268,1322,1589,1468,1541,1444,1108,1146,26,11,29,23,27,29,24,20,18,21,19,20
+3,State Universities,4,State Colleges,ALS,Albany State University,GHC,Georgia Highlands College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,0,0,1,1,1,0,0,2,1,3,0,0
+4,State Colleges,3,State Universities,GPC,Georgia Perimeter College,NGC,North Georgia College & State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,52,73,89,90,83,73,78,63,62,63,17,0
+4,State Colleges,4,State Colleges,MGSC,Middle Georgia State College,GHC,Georgia Highlands College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,7,0,3,3,1,3,5,5,5,3,1,6
+4,State Colleges,3,State Universities,MAC,Macon State College,ALS,Albany State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,4,1,5,8,0,1,2,2,2,3,0
+4,State Colleges,1,Research Universities,AMC,Atlanta Metropolitan State College,AUG,Augusta State University,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,0,2,2,0,1,2,1,1,0,2,0,0
+4,State Colleges,1,Research Universities,DAL,Dalton State College,UGA,University of Georgia,2001,1836,2056,2253,2125,2248,2316,2402,2371,2253,2416,2484,10,8,13,11,17,12,27,19,26,24,16,21
+4,State Colleges,4,State Colleges,SGSC,South Georgia State College,DAL,Dalton State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,0,0,1,1,1,0,1,0,1,0
+1,Research Universities,2,Comprehensive Universities,GRU,Georgia Regents University,KEN,Kennesaw State University,457,438,425,401,353,377,397,398,369,403,352,335,3,1,0,1,0,0,0,3,0,0,0,19
+3,State Universities,4,State Colleges,ALS,Albany State University,GDN,Gordon State College,829,916,928,902,1003,978,1288,1468,1398,1337,1086,1010,1,3,1,1,3,1,3,4,3,8,5,3
+4,State Colleges,3,State Universities,AMC,Atlanta Metropolitan State College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,71,92,61,67,54,69,69,62,87,91,80,84
+4,State Colleges,3,State Universities,GGC,Georgia Gwinnett College,CSC,Clayton State University,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,11,13
+4,State Colleges,2,Comprehensive Universities,AMC,Atlanta Metropolitan State College,KEN,Kennesaw State University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,24,21,19,17,18,17,16,30,27,46,35,45
+4,State Colleges,4,State Colleges,GHC,Georgia Highlands College,ABC,Abraham Baldwin Agricultural College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,2,1,2,1,3,3,3,0,0,2,0,5
+3,State Universities,3,State Universities,GSW,Georgia Southwestern State University,GCM,Georgia College & State University,691,801,890,788,844,859,880,964,938,1023,728,557,3,3,3,2,5,3,3,3,1,1,1,3
+4,State Colleges,2,Comprehensive Universities,SGSC,South Georgia State College,GSC,Georgia Southern University,2310,2327,2400,2470,2585,2724,3056,3082,3117,2916,2704,2555,40,31,39,35,29,23,44,48,43,34,42,55
+2,Comprehensive Universities,3,State Universities,UWG,University of West Georgia,AAS,Armstrong Atlantic State University,550,601,590,596,633,639,702,707,658,775,750,647,4,5,8,7,6,7,4,5,8,8,4,5
+4,State Colleges,3,State Universities,GDN,Gordon State College,UNGA,University of North Georgia,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,0,0,0,0,0,0,0,0,0,0,9,14
+4,State Colleges,4,State Colleges,DAL,Dalton State College,MID,Middle Georgia College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,1,0,0,0,0,2,0,2,2,1,1,0
+4,State Colleges,4,State Colleges,MGSC,Middle Georgia State College,EGC,East Georgia State College,1071,1182,1250,1372,1624,2042,2227,2559,2418,2596,2172,1837,7,15,13,10,25,27,29,31,13,0,13,15
+4,State Colleges,3,State Universities,DAL,Dalton State College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,9,6,3,4,6,5,3,5,6,6,2,0
+4,State Colleges,3,State Universities,EGC,East Georgia State College,GAN,Gainesville State College,1682,1929,1953,1991,2073,2256,2455,2437,2424,2475,2320,2178,4,5,3,3,1,6,8,15,9,7,1,0
+1,Research Universities,3,State Universities,UGA,University of Georgia,UNGA,University of North Georgia,436,407,418,376,360,378,409,384,369,436,388,333,0,0,0,0,0,0,0,0,0,0,31,33
+3,State Universities,3,State Universities,GCM,Georgia College & State University,CSC,Clayton State University,691,801,890,788,844,859,880,964,938,1023,728,557,12,11,14,7,3,12,6,7,12,11,8,5
+2,Comprehensive Universities,4,State Colleges,GSC,Georgia Southern University,DAL,Dalton State College,796,829,788,778,919,992,1146,1132,1227,1166,1227,1065,8,10,4,7,5,6,12,7,4,5,10,8
